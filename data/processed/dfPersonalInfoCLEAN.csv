@@ -53,7 +53,7 @@ id,age,gender,country,image
 7585,80,Male,None,https://specials-images.forbesimg.com/imageserve/5a8d914e4bbe6f2652f61c2f/416x416.jpg?background=000000&cropX1=2670&cropX2=3520&cropY1=341&cropY2=1190
 6716,93,Male,Philippines,https://specials-images.forbesimg.com/imageserve/5a8ed22d31358e4955ae072b/416x416.jpg?background=000000&cropX1=568&cropX2=3083&cropY1=131&cropY2=2647
 2370,46,Male,USA,https://specials-images.forbesimg.com/imageserve/5a8d90fd4bbe6f2652f61c15/416x416.jpg?background=000000&cropX1=0&cropX2=1999&cropY1=159&cropY2=2159
-3034,2020,Male,None,https://specials-images.forbesimg.com/imageserve/5a8159ea4bbe6f2652f547d4/416x416.jpg?background=000000&cropX1=1029&cropX2=3189&cropY1=6&cropY2=2165
+3034,None,Male,None,https://specials-images.forbesimg.com/imageserve/5a8159ea4bbe6f2652f547d4/416x416.jpg?background=000000&cropX1=1029&cropX2=3189&cropY1=6&cropY2=2165
 4473,69,Male,None,https://specials-images.forbesimg.com/imageserve/5ac24e1ca7ea432fbc1dc7fa/416x416.jpg?background=000000&cropX1=874&cropX2=2885&cropY1=491&cropY2=2501
 1566,62,None,Russia,https://specials-images.forbesimg.com/imageserve/5a80c93d31358e4955ad2cb5/416x416.jpg?background=000000&cropX1=9&cropX2=1871&cropY1=148&cropY2=2012
 8869,54,Female,United States,https://specials-images.forbesimg.com/imageserve/5a270a504bbe6f37e65991c9/416x416.jpg?background=000000&cropX1=1150&cropX2=4486&cropY1=0&cropY2=3333
@@ -75,7 +75,7 @@ id,age,gender,country,image
 9667,70,Male,None,https://specials-images.forbesimg.com/imageserve/5a8121d54bbe6f2652f545f0/416x416.jpg?background=000000&cropX1=599&cropX2=2597&cropY1=15&cropY2=2015
 7532,78,Male,None,https://specials-images.forbesimg.com/imageserve/5a8121d54bbe6f2652f545f0/416x416.jpg?background=000000&cropX1=599&cropX2=2597&cropY1=15&cropY2=2015
 1466,66,Male,None,https://specials-images.forbesimg.com/imageserve/5a7e6ca6a7ea431690132547/416x416.jpg?background=000000&cropX1=125&cropX2=1076&cropY1=81&cropY2=1033
-5052,2020,None,Hong Kong,https://specials-images.forbesimg.com/imageserve/5a579cfd4bbe6f2652f2517c/416x416.jpg?background=000000&cropX1=152&cropX2=1061&cropY1=6&cropY2=915
+5052,None,None,Hong Kong,https://specials-images.forbesimg.com/imageserve/5a579cfd4bbe6f2652f2517c/416x416.jpg?background=000000&cropX1=152&cropX2=1061&cropY1=6&cropY2=915
 8959,67,Male,None,https://specials-images.forbesimg.com/imageserve/5a80c400a7ea431690133cb7/416x416.jpg?background=000000&cropX1=481&cropX2=2139&cropY1=0&cropY2=1658
 5547,65,Male,None,https://specials-images.forbesimg.com/imageserve/5a815b254bbe6f2652f547e0/416x416.jpg?background=000000&cropX1=252&cropX2=2046&cropY1=814&cropY2=2608
 4353,86,None,None,https://specials-images.forbesimg.com/imageserve/57e575c94bbe6f24d1f891ce/416x416.jpg?background=000000&cropX1=126&cropX2=651&cropY1=31&cropY2=556
@@ -88,7 +88,7 @@ id,age,gender,country,image
 1615,46,Male,None,https://specials-images.forbesimg.com/imageserve/8c2c90c2667221740e4fe57cde754bf8/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=18&cropY2=762
 8486,54,Male,None,https://specials-images.forbesimg.com/imageserve/4023ab5df9aad04f544e7dfde9031598/416x416.jpg?background=000000&cropX1=32&cropX2=723&cropY1=3&cropY2=694
 3458,46,Male,Russia,https://specials-images.forbesimg.com/imageserve/5a809da44bbe6f2652f53def/416x416.jpg?background=000000&cropX1=651&cropX2=3302&cropY1=6&cropY2=2656
-4132,2020,None,None,https://specials-images.forbesimg.com/imageserve/58ee56d9a7ea437ada262e00/416x416.jpg?background=000000&cropX1=253&cropX2=1732&cropY1=64&cropY2=1543
+4132,None,None,None,https://specials-images.forbesimg.com/imageserve/58ee56d9a7ea437ada262e00/416x416.jpg?background=000000&cropX1=253&cropX2=1732&cropY1=64&cropY2=1543
 5068,81,None,Germany,https://specials-images.forbesimg.com/imageserve/5a7e288b31358e4955ad1159/416x416.jpg?background=000000&cropX1=2640&cropX2=4000&cropY1=400&cropY2=1760
 4971,55,Male,China,https://specials-images.forbesimg.com/imageserve/5a7ccad231358e4955acf931/416x416.jpg?background=000000&cropX1=488&cropX2=1703&cropY1=161&cropY2=1377
 8227,54,Male,None,https://specials-images.forbesimg.com/imageserve/5a80ac47a7ea431690133b64/416x416.jpg?background=000000&cropX1=534&cropX2=3793&cropY1=7&cropY2=3263
@@ -128,7 +128,7 @@ id,age,gender,country,image
 8526,51,Male,None,https://specials-images.forbesimg.com/imageserve/56ca6247e4b062f6b59a2f96/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=280&cropY2=1024
 6776,50,None,None,https://specials-images.forbesimg.com/imageserve/5a7e04f431358e4955ad0c06/416x416.jpg?background=000000&cropX1=126&cropX2=900&cropY1=176&cropY2=950
 9597,77,Male,Italy,https://specials-images.forbesimg.com/imageserve/5a7fa0904bbe6f2652f53414/416x416.jpg?background=000000&cropX1=954&cropX2=3605&cropY1=6&cropY2=2656
-8655,2020,None,Germany,https://specials-images.forbesimg.com/imageserve/5a7fa0904bbe6f2652f53414/416x416.jpg?background=000000&cropX1=954&cropX2=3605&cropY1=6&cropY2=2656
+8655,None,None,Germany,https://specials-images.forbesimg.com/imageserve/5a7fa0904bbe6f2652f53414/416x416.jpg?background=000000&cropX1=954&cropX2=3605&cropY1=6&cropY2=2656
 2429,50,Male,None,https://specials-images.forbesimg.com/imageserve/cf65372d0041b89469dfc064d15d21ca/416x416.jpg?background=000000&cropX1=6&cropX2=595&cropY1=433&cropY2=1023
 4916,65,Male,None,https://specials-images.forbesimg.com/imageserve/572275fc31358e1869e2bbb5/416x416.jpg?background=000000&cropX1=23&cropX2=651&cropY1=24&cropY2=652
 7872,88,Male,Hong Kong,https://specials-images.forbesimg.com/imageserve/56898008e4b0ffa7afe8a698/416x416.jpg?background=000000&cropX1=237&cropX2=535&cropY1=235&cropY2=533
@@ -140,7 +140,7 @@ id,age,gender,country,image
 3733,60,Male,None,https://specials-images.forbesimg.com/imageserve/5ac95a864bbe6f2310f1e063/416x416.jpg?background=000000&cropX1=407&cropX2=2023&cropY1=9&cropY2=1624
 9061,51,Male,None,https://specials-images.forbesimg.com/imageserve/5a80b0cc4bbe6f2652f53f7a/416x416.jpg?background=000000&cropX1=0&cropX2=1368&cropY1=115&cropY2=1484
 6733,43,Male,People's Republic of China,https://specials-images.forbesimg.com/imageserve/5a7cdab84bbe6f2652f50e19/416x416.jpg?background=000000&cropX1=294&cropX2=1518&cropY1=234&cropY2=1458
-1849,2020,None,Singapore,https://specials-images.forbesimg.com/imageserve/a9e3c27c6a67d9b561db2559f1c08ecd/416x416.jpg?background=000000&cropX1=93&cropX2=684&cropY1=2&cropY2=593
+1849,None,None,Singapore,https://specials-images.forbesimg.com/imageserve/a9e3c27c6a67d9b561db2559f1c08ecd/416x416.jpg?background=000000&cropX1=93&cropX2=684&cropY1=2&cropY2=593
 3127,86,Male,None,https://specials-images.forbesimg.com/imageserve/56cbb0e5e4b062f6b59a430a/416x416.jpg?background=000000&cropX1=55&cropX2=1531&cropY1=3&cropY2=1480
 1460,59,Male,None,https://specials-images.forbesimg.com/imageserve/59d3d4884bbe6f37dd9fe8da/416x416.jpg?background=000000&cropX1=589&cropX2=1817&cropY1=651&cropY2=1879
 3886,51,Male,USA,https://specials-images.forbesimg.com/imageserve/59d57e6f4bbe6f37dda002ba/416x416.jpg?background=000000&cropX1=123&cropX2=1302&cropY1=83&cropY2=1263
@@ -222,8 +222,8 @@ id,age,gender,country,image
 7182,51,None,China,https://specials-images.forbesimg.com/imageserve/561fad72e4b0ffa7afe5e1cc/416x416.jpg?background=000000&cropX1=24&cropX2=691&cropY1=174&cropY2=841
 1792,66,Male,United States,https://specials-images.forbesimg.com/imageserve/59d598c6a7ea436b47b3752d/416x416.jpg?background=000000&cropX1=692&cropX2=2272&cropY1=1315&cropY2=2896
 2420,54,Male,None,https://specials-images.forbesimg.com/imageserve/5a7df44d31358e4955ad0a89/416x416.jpg?background=000000&cropX1=5&cropX2=1944&cropY1=112&cropY2=2053
-3984,2020,Female,Mexico,https://specials-images.forbesimg.com/imageserve/5a7df44d31358e4955ad0a89/416x416.jpg?background=000000&cropX1=5&cropX2=1944&cropY1=112&cropY2=2053
-5047,2020,None,None,https://specials-images.forbesimg.com/imageserve/5a812de74bbe6f2652f5465b/416x416.jpg?background=000000&cropX1=916&cropX2=3658&cropY1=223&cropY2=2964
+3984,None,Female,Mexico,https://specials-images.forbesimg.com/imageserve/5a7df44d31358e4955ad0a89/416x416.jpg?background=000000&cropX1=5&cropX2=1944&cropY1=112&cropY2=2053
+5047,None,None,None,https://specials-images.forbesimg.com/imageserve/5a812de74bbe6f2652f5465b/416x416.jpg?background=000000&cropX1=916&cropX2=3658&cropY1=223&cropY2=2964
 8957,62,Male,None,https://specials-images.forbesimg.com/imageserve/5a7fcf01a7ea4316901331ab/416x416.jpg?background=000000&cropX1=815&cropX2=1979&cropY1=0&cropY2=1165
 3565,55,Male,None,https://specials-images.forbesimg.com/imageserve/5539280de4b0bacdbd748e4e/416x416.jpg?background=000000&cropX1=19&cropX2=744&cropY1=53&cropY2=778
 1000,60,Female,None,https://specials-images.forbesimg.com/imageserve/5a579e67a7ea431690109bda/416x416.jpg?background=000000&cropX1=43&cropX2=570&cropY1=1&cropY2=528
@@ -242,7 +242,7 @@ id,age,gender,country,image
 2477,50,Male,United Kingdom,https://specials-images.forbesimg.com/imageserve/5ac95aec31358e4112b72073/416x416.jpg?background=000000&cropX1=347&cropX2=962&cropY1=32&cropY2=647
 4138,77,None,None,https://specials-images.forbesimg.com/imageserve/58093899a7ea435b91b047c1/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=5&cropY2=748
 2513,76,Male,None,https://specials-images.forbesimg.com/imageserve/59d5927ba7ea436b47b374d3/416x416.jpg?background=000000&cropX1=1179&cropX2=2478&cropY1=1572&cropY2=2872
-9346,2020,Male,USA,https:http://specials-images.forbesimg.com/imageserve/7323a2a143c9b646a26c7cb1944bfb73/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=56&cropY2=800
+9346,None,Male,USA,https:http://specials-images.forbesimg.com/imageserve/7323a2a143c9b646a26c7cb1944bfb73/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=56&cropY2=800
 2682,51,Male,Russia,https://specials-images.forbesimg.com/imageserve/5a80a32e4bbe6f2652f53e2e/416x416.jpg?background=000000&cropX1=280&cropX2=2811&cropY1=0&cropY2=2531
 2938,61,Male,None,https://specials-images.forbesimg.com/imageserve/58a0a4eda7ea431f321958b6/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=44&cropY2=788
 5741,62,Male,None,https://specials-images.forbesimg.com/imageserve/56c9c892e4b062f6b59a2ba8/416x416.jpg?background=000000&cropX1=26&cropX2=744&cropY1=90&cropY2=809
@@ -252,7 +252,7 @@ id,age,gender,country,image
 8146,46,Male,USA,https://specials-images.forbesimg.com/imageserve/59d5914fa7ea436b47b374c9/416x416.jpg?background=000000&cropX1=282&cropX2=898&cropY1=14&cropY2=630
 3454,62,None,None,https://specials-images.forbesimg.com/imageserve/5a7f777a31358e4955ad1cff/416x416.jpg?background=000000&cropX1=11&cropX2=2628&cropY1=0&cropY2=2618
 1802,69,Female,None,https:http://specials-images.forbesimg.com/imageserve/d5242b8b4379e926c18797a1c2138840/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=300&cropY2=1044
-5962,2020,Male,None,https:http://specials-images.forbesimg.com/imageserve/d5242b8b4379e926c18797a1c2138840/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=300&cropY2=1044
+5962,None,Male,None,https:http://specials-images.forbesimg.com/imageserve/d5242b8b4379e926c18797a1c2138840/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=300&cropY2=1044
 7252,63,Male,None,https://specials-images.forbesimg.com/imageserve/58a285984bbe6f0e5586bbff/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=61&cropY2=805
 5301,66,Female,None,https://specials-images.forbesimg.com/imageserve/5a811f124bbe6f2652f545c7/416x416.jpg?background=000000&cropX1=291&cropX2=1807&cropY1=0&cropY2=1516
 3282,66,Male,Norway,https://specials-images.forbesimg.com/imageserve/0fc3dfb2dc821a40556c0f98c7270e14/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=58&cropY2=802
@@ -267,7 +267,7 @@ id,age,gender,country,image
 1051,85,Male,None,https://specials-images.forbesimg.com/imageserve/5a7e105931358e4955ad0e9b/416x416.jpg?background=000000&cropX1=2&cropX2=815&cropY1=29&cropY2=843
 7857,45,Male,None,https://specials-images.forbesimg.com/imageserve/58093d3aa7ea435b91b047e0/416x416.jpg?background=000000&cropX1=61&cropX2=683&cropY1=45&cropY2=667
 9522,52,Male,None,https://specials-images.forbesimg.com/imageserve/5a80c2c74bbe6f2652f540c0/416x416.jpg?background=000000&cropX1=193&cropX2=1856&cropY1=32&cropY2=1696
-3492,2020,Male,United Kingdom,https://specials-images.forbesimg.com/imageserve/5ae0aff94bbe6f1adb89766d/416x416.jpg?background=000000&cropX1=0&cropX2=400&cropY1=0&cropY2=400
+3492,None,Male,United Kingdom,https://specials-images.forbesimg.com/imageserve/5ae0aff94bbe6f1adb89766d/416x416.jpg?background=000000&cropX1=0&cropX2=400&cropY1=0&cropY2=400
 8733,62,Male,None,https://specials-images.forbesimg.com/imageserve/5ae0aff94bbe6f1adb89766d/416x416.jpg?background=000000&cropX1=0&cropX2=400&cropY1=0&cropY2=400
 4133,67,None,None,https://specials-images.forbesimg.com/imageserve/239960e569e988f52709225581a9680b/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=71&cropY2=815
 6553,86,Male,India,https://specials-images.forbesimg.com/imageserve/56ca6a42e4b062f6b59a3447/416x416.jpg?background=000000&cropX1=8&cropX2=744&cropY1=232&cropY2=968
@@ -294,7 +294,7 @@ id,age,gender,country,image
 1919,71,Male,Sweden,https://specials-images.forbesimg.com/imageserve/d201191c67a794148183778ea76d7076/416x416.jpg?background=000000&cropX1=34&cropX2=677&cropY1=82&cropY2=725
 9482,61,Male,None,https:http://specials-images.forbesimg.com/imageserve/57d8881f4bbe6f6781c4f08c/416x416.jpg?background=000000&cropX1=188&cropX2=470&cropY1=216&cropY2=498
 8985,88,Male,None,https://specials-images.forbesimg.com/imageserve/5a95531c4bbe6f0fa826ad63/416x416.jpg?background=000000&cropX1=0&cropX2=1775&cropY1=132&cropY2=1908
-7126,2020,Male,None,https://specials-images.forbesimg.com/imageserve/5a988f2e4bbe6f0fa8271657/416x416.jpg?background=000000&cropX1=648&cropX2=1589&cropY1=256&cropY2=1197
+7126,None,Male,None,https://specials-images.forbesimg.com/imageserve/5a988f2e4bbe6f0fa8271657/416x416.jpg?background=000000&cropX1=648&cropX2=1589&cropY1=256&cropY2=1197
 8907,55,Female,Mexico,https://specials-images.forbesimg.com/imageserve/5a7fceaf31358e4955ad222e/416x416.jpg?background=000000&cropX1=98&cropX2=687&cropY1=18&cropY2=608
 1209,54,Male,Germany,https://specials-images.forbesimg.com/imageserve/5a7e38654bbe6f2652f52881/416x416.jpg?background=000000&cropX1=678&cropX2=3042&cropY1=0&cropY2=2362
 7407,87,None,Australia,https://specials-images.forbesimg.com/imageserve/5a7a522a31358e4955acc824/416x416.jpg?background=000000&cropX1=485&cropX2=4136&cropY1=0&cropY2=3648
@@ -325,7 +325,7 @@ id,age,gender,country,image
 3916,85,None,United States,https://specials-images.forbesimg.com/imageserve/59d596e94bbe6f37dda00492/416x416.jpg?background=000000&cropX1=1056&cropX2=2599&cropY1=320&cropY2=1863
 3838,75,Male,None,https://specials-images.forbesimg.com/imageserve/5a8da95231358e4955adf510/416x416.jpg?background=000000&cropX1=765&cropX2=3552&cropY1=297&cropY2=3084
 1142,52,Male,People's Republic of China,https://specials-images.forbesimg.com/imageserve/1fa4a144289692d99fbce365c9d33f87/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=3&cropY2=744
-5210,2020,Male,None,https://specials-images.forbesimg.com/imageserve/6c8f2163dc502eb7562971f3f311e036/416x416.jpg?background=000000&cropX1=361&cropX2=3071&cropY1=626&cropY2=3338
+5210,None,Male,None,https://specials-images.forbesimg.com/imageserve/6c8f2163dc502eb7562971f3f311e036/416x416.jpg?background=000000&cropX1=361&cropX2=3071&cropY1=626&cropY2=3338
 9952,79,Male,None,https://specials-images.forbesimg.com/imageserve/e5c176130a3760d9c0d50372abdb3d15/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=131&cropY2=875
 1102,72,Male,None,https://specials-images.forbesimg.com/imageserve/5a8da99e4bbe6f2652f620cd/416x416.jpg?background=000000&cropX1=9&cropX2=2000&cropY1=304&cropY2=2297
 5249,73,Male,None,https://specials-images.forbesimg.com/imageserve/5ac24fd1a7ea432fbc1dc84d/416x416.jpg?background=000000&cropX1=326&cropX2=2652&cropY1=229&cropY2=2557
@@ -356,13 +356,13 @@ id,age,gender,country,image
 4954,67,Male,None,https://specials-images.forbesimg.com/imageserve/5a7e5fd54bbe6f2652f52a24/416x416.jpg?background=000000&cropX1=0&cropX2=2624&cropY1=256&cropY2=2881
 6706,70,Male,None,https://specials-images.forbesimg.com/imageserve/5a7dd83aa7ea43169013181a/416x416.jpg?background=000000&cropX1=3&cropX2=1380&cropY1=191&cropY2=1568
 2657,42,Female,None,https://specials-images.forbesimg.com/imageserve/5a7dd83aa7ea43169013181a/416x416.jpg?background=000000&cropX1=3&cropX2=1380&cropY1=191&cropY2=1568
-3315,2020,Male,None,https://specials-images.forbesimg.com/imageserve/5a8709334bbe6f2652f5bfdb/416x416.jpg?background=000000&cropX1=86&cropX2=713&cropY1=111&cropY2=737
-1389,2020,None,Hong Kong,https://specials-images.forbesimg.com/imageserve/5a8709334bbe6f2652f5bfdb/416x416.jpg?background=000000&cropX1=86&cropX2=713&cropY1=111&cropY2=737
+3315,None,Male,None,https://specials-images.forbesimg.com/imageserve/5a8709334bbe6f2652f5bfdb/416x416.jpg?background=000000&cropX1=86&cropX2=713&cropY1=111&cropY2=737
+1389,None,None,Hong Kong,https://specials-images.forbesimg.com/imageserve/5a8709334bbe6f2652f5bfdb/416x416.jpg?background=000000&cropX1=86&cropX2=713&cropY1=111&cropY2=737
 2207,62,Male,China,https:http://specials-images.forbesimg.com/imageserve/c6c43100dbae28f161e7055a5e75f340/416x416.jpg?background=000000&cropX1=8&cropX2=591&cropY1=105&cropY2=688
 8392,56,Female,None,https://specials-images.forbesimg.com/imageserve/5a8128b34bbe6f2652f54640/416x416.jpg?background=000000&cropX1=91&cropX2=1241&cropY1=197&cropY2=1346
 9122,74,Male,None,https://specials-images.forbesimg.com/imageserve/59d64f804bbe6f37dda00abe/416x416.jpg?background=000000&cropX1=726&cropX2=3183&cropY1=63&cropY2=2519
 8722,79,Male,None,https://specials-images.forbesimg.com/imageserve/57e0613b4bbe6f6781c525d6/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=153&cropY2=897
-7588,2020,Female,Denmark,https://specials-images.forbesimg.com/imageserve/5a87083431358e4955ad9fd8/416x416.jpg?background=000000&cropX1=546&cropX2=1857&cropY1=0&cropY2=1312
+7588,None,Female,Denmark,https://specials-images.forbesimg.com/imageserve/5a87083431358e4955ad9fd8/416x416.jpg?background=000000&cropX1=546&cropX2=1857&cropY1=0&cropY2=1312
 4914,65,Male,Nigeria,https://specials-images.forbesimg.com/imageserve/5a7fd8c84bbe6f2652f53737/416x416.jpg?background=000000&cropX1=282&cropX2=1706&cropY1=0&cropY2=1424
 3718,75,Male,None,https://specials-images.forbesimg.com/imageserve/5a8ddcc64bbe6f2652f62868/416x416.jpg?background=000000&cropX1=2456&cropX2=3916&cropY1=779&cropY2=2238
 6363,52,Male,None,https://specials-images.forbesimg.com/imageserve/5a7de49131358e4955ad092f/416x416.jpg?background=000000&cropX1=1014&cropX2=4154&cropY1=126&cropY2=3264
@@ -404,7 +404,7 @@ id,age,gender,country,image
 6346,62,None,None,https://specials-images.forbesimg.com/imageserve/5a7f33f14bbe6f2652f52f71/416x416.jpg?background=000000&cropX1=122&cropX2=1106&cropY1=0&cropY2=985
 9327,70,None,None,https://specials-images.forbesimg.com/imageserve/59d67a6d31358e542c036094/416x416.jpg?background=000000&cropX1=491&cropX2=1750&cropY1=525&cropY2=1784
 4021,53,Male,United States,https://specials-images.forbesimg.com/imageserve/59d7cc144bbe6f37dda01db7/416x416.jpg?background=000000&cropX1=749&cropX2=2926&cropY1=188&cropY2=2364
-4516,2020,Male,None,https://specials-images.forbesimg.com/imageserve/bd193087013752ba2761836aea9beace/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=5&cropY2=748
+4516,None,Male,None,https://specials-images.forbesimg.com/imageserve/bd193087013752ba2761836aea9beace/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=5&cropY2=748
 6746,80,None,South Korea,https://specials-images.forbesimg.com/imageserve/5b15a4284bbe6f74868b8fb9/416x416.jpg?background=000000&cropX1=10&cropX2=3386&cropY1=5&cropY2=3382
 7865,91,Male,None,https://specials-images.forbesimg.com/imageserve/04bf8bc05f398814c72260b756b2fc5a/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=39&cropY2=783
 3445,75,Male,United States,https://specials-images.forbesimg.com/imageserve/5605a059e4b0ffa7afe518cd/416x416.jpg?background=000000&cropX1=0&cropX2=374&cropY1=25&cropY2=399
@@ -413,14 +413,14 @@ id,age,gender,country,image
 7104,62,Male,India,https://specials-images.forbesimg.com/imageserve/5a7f033b4bbe6f2652f52cc9/416x416.jpg?background=000000&cropX1=532&cropX2=2491&cropY1=207&cropY2=2168
 4886,58,Male,None,https://specials-images.forbesimg.com/imageserve/5a806519a7ea431690133751/416x416.jpg?background=000000&cropX1=937&cropX2=3600&cropY1=6&cropY2=2667
 2312,95,Male,None,https://specials-images.forbesimg.com/imageserve/59d65d5a31358e542c035e47/416x416.jpg?background=000000&cropX1=0&cropX2=2289&cropY1=77&cropY2=2365
-9713,2020,Male,None,https://specials-images.forbesimg.com/imageserve/589faa1f31358e1a35ab2c22/416x416.jpg?background=000000&cropX1=130&cropX2=713&cropY1=0&cropY2=583
+9713,None,Male,None,https://specials-images.forbesimg.com/imageserve/589faa1f31358e1a35ab2c22/416x416.jpg?background=000000&cropX1=130&cropX2=713&cropY1=0&cropY2=583
 7250,63,Male,United States,https://specials-images.forbesimg.com/imageserve/ba18b6f38b0a9ad48193fbb68d7e2af2/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=174&cropY2=918
 7511,56,Male,United States,https://specials-images.forbesimg.com/imageserve/5a8dd482a7ea431690140ad3/416x416.jpg?background=000000&cropX1=1463&cropX2=3000&cropY1=114&cropY2=1650
 5745,52,Male,None,https://specials-images.forbesimg.com/imageserve/5a8093dca7ea431690133a06/416x416.jpg?background=000000&cropX1=4&cropX2=1510&cropY1=7&cropY2=1512
 3732,57,Male,China,https://specials-images.forbesimg.com/imageserve/5a8093dca7ea431690133a06/416x416.jpg?background=000000&cropX1=4&cropX2=1510&cropY1=7&cropY2=1512
 8713,76,Male,United States,https://specials-images.forbesimg.com/imageserve/55eeed2de4b0ffa7afe46f76/416x416.jpg?background=000000&cropX1=2&cropX2=741&cropY1=145&cropY2=885
 7233,58,Male,None,https://specials-images.forbesimg.com/imageserve/5a7d28f24bbe6f2652f512b4/416x416.jpg?background=000000&cropX1=0&cropX2=677&cropY1=39&cropY2=716
-1109,2020,Male,None,https://specials-images.forbesimg.com/imageserve/5a7f0f23a7ea4316901328cb/416x416.jpg?background=000000&cropX1=525&cropX2=2538&cropY1=580&cropY2=2592
+1109,None,Male,None,https://specials-images.forbesimg.com/imageserve/5a7f0f23a7ea4316901328cb/416x416.jpg?background=000000&cropX1=525&cropX2=2538&cropY1=580&cropY2=2592
 7090,39,Male,Canada,https://specials-images.forbesimg.com/imageserve/5a7baaa831358e4955ace13f/416x416.jpg?background=000000&cropX1=251&cropX2=2914&cropY1=6&cropY2=2667
 8045,64,None,None,https:http://specials-images.forbesimg.com/imageserve/5601a7bae4b0ffa7afe4f31b/416x416.jpg?background=000000&cropX1=43&cropX2=624&cropY1=27&cropY2=609
 7885,65,Male,United States,https:http://specials-images.forbesimg.com/imageserve/5601a7fbe4b0ffa7afe4f321/416x416.jpg?background=000000&cropX1=76&cropX2=632&cropY1=81&cropY2=637
@@ -454,7 +454,7 @@ id,age,gender,country,image
 8865,59,Female,None,https://specials-images.forbesimg.com/imageserve/5a7e05b04bbe6f2652f522fb/416x416.jpg?background=000000&cropX1=5&cropX2=2269&cropY1=250&cropY2=2515
 5017,89,Male,None,https://specials-images.forbesimg.com/imageserve/59d7c3ae31358e542c036bec/416x416.jpg?background=000000&cropX1=535&cropX2=1385&cropY1=103&cropY2=953
 1520,83,Male,Philippines,https://specials-images.forbesimg.com/imageserve/599b5c6e4bbe6f5997f042f6/416x416.jpg?background=000000&cropX1=77&cropX2=384&cropY1=29&cropY2=336
-7777,2020,Male,None,https://specials-images.forbesimg.com/imageserve/e9477990f0df68ea92063acd9c7228d1/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=160&cropY2=904
+7777,None,Male,None,https://specials-images.forbesimg.com/imageserve/e9477990f0df68ea92063acd9c7228d1/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=160&cropY2=904
 7673,63,Male,None,https://specials-images.forbesimg.com/imageserve/5a7dd34f4bbe6f2652f51d49/416x416.jpg?background=000000&cropX1=1172&cropX2=2779&cropY1=13&cropY2=1621
 2876,50,None,None,https://specials-images.forbesimg.com/imageserve/c1dbd4fa31b702a401ff195c647b54e4/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=73&cropY2=817
 1286,55,Male,None,https://specials-images.forbesimg.com/imageserve/561fbcbde4b0ffa7afe5e581/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=0&cropY2=744
@@ -464,7 +464,7 @@ id,age,gender,country,image
 8338,76,None,None,https://specials-images.forbesimg.com/imageserve/e24f0d9158264ab6398b101f3749b091/416x416.jpg?background=000000&cropX1=66&cropX2=744&cropY1=76&cropY2=754
 7137,61,None,None,https://specials-images.forbesimg.com/imageserve/561fad16e4b0ffa7afe5e1bf/416x416.jpg?background=000000&cropX1=5&cropX2=744&cropY1=82&cropY2=822
 8657,60,Male,None,https://specials-images.forbesimg.com/imageserve/5a7f76684bbe6f2652f5329d/416x416.jpg?background=000000&cropX1=530&cropX2=2995&cropY1=10&cropY2=2477
-8689,2020,Male,None,https://specials-images.forbesimg.com/imageserve/55f77d16e4b0ffa7afe49443/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=224&cropY2=968
+8689,None,Male,None,https://specials-images.forbesimg.com/imageserve/55f77d16e4b0ffa7afe49443/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=224&cropY2=968
 6441,75,Male,None,https://specials-images.forbesimg.com/imageserve/58c71f63a7ea431f321b0e85/416x416.jpg?background=000000&cropX1=101&cropX2=742&cropY1=73&cropY2=714
 3791,57,Male,None,https://specials-images.forbesimg.com/imageserve/5b15a4774bbe6f74868b8fd9/416x416.jpg?background=000000&cropX1=3&cropX2=1362&cropY1=0&cropY2=1360
 4373,44,Male,None,https://specials-images.forbesimg.com/imageserve/5a7cafb031358e4955acf666/416x416.jpg?background=000000&cropX1=1260&cropX2=4999&cropY1=8&cropY2=3744
@@ -549,7 +549,7 @@ id,age,gender,country,image
 2945,45,Male,China,https://specials-images.forbesimg.com/imageserve/5a7d03fba7ea431690130d98/416x416.jpg?background=000000&cropX1=101&cropX2=561&cropY1=90&cropY2=549
 8955,62,Male,United States,https://specials-images.forbesimg.com/imageserve/59d7eab04bbe6f37dda020cf/416x416.jpg?background=000000&cropX1=2496&cropX2=3723&cropY1=163&cropY2=1389
 4176,48,None,USA,https://specials-images.forbesimg.com/imageserve/59ef795e4bbe6f37dda1056d/416x416.jpg?background=000000&cropX1=1613&cropX2=3298&cropY1=1291&cropY2=2975
-1145,2020,Female,None,https://specials-images.forbesimg.com/imageserve/5a7e5aff31358e4955ad13b7/416x416.jpg?background=000000&cropX1=18&cropX2=775&cropY1=120&cropY2=877
+1145,None,Female,None,https://specials-images.forbesimg.com/imageserve/5a7e5aff31358e4955ad13b7/416x416.jpg?background=000000&cropX1=18&cropX2=775&cropY1=120&cropY2=877
 3616,40,Male,Germany,https://specials-images.forbesimg.com/imageserve/5a68e7774bbe6f2652f37a75/416x416.jpg?background=000000&cropX1=165&cropX2=813&cropY1=30&cropY2=679
 4442,51,Male,None,https://specials-images.forbesimg.com/imageserve/589ce0f74bbe6f0e55866685/416x416.jpg?background=000000&cropX1=72&cropX2=744&cropY1=0&cropY2=672
 2376,76,None,None,https://specials-images.forbesimg.com/imageserve/59d7fbac4bbe6f37dda021cd/416x416.jpg?background=000000&cropX1=0&cropX2=838&cropY1=669&cropY2=1506
@@ -578,9 +578,9 @@ id,age,gender,country,image
 5725,77,Male,None,https://specials-images.forbesimg.com/imageserve/58a1d3a331358e1a35ab4263/416x416.jpg?background=000000&cropX1=87&cropX2=630&cropY1=95&cropY2=638
 5902,94,Male,None,https://specials-images.forbesimg.com/imageserve/9a1adba9e6b474399573d48ba6ef713a/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=31&cropY2=775
 3223,69,Male,Taiwan,https://specials-images.forbesimg.com/imageserve/56cc32c1e4b062f6b59a4fdd/416x416.jpg?background=000000&cropX1=45&cropX2=651&cropY1=89&cropY2=695
-7731,2020,Male,India,https://specials-images.forbesimg.com/imageserve/5abba482a7ea432fbc1d5d2a/416x416.jpg?background=000000&cropX1=1748&cropX2=4571&cropY1=233&cropY2=3058
+7731,None,Male,India,https://specials-images.forbesimg.com/imageserve/5abba482a7ea432fbc1d5d2a/416x416.jpg?background=000000&cropX1=1748&cropX2=4571&cropY1=233&cropY2=3058
 1596,64,None,None,https://specials-images.forbesimg.com/imageserve/852181c7f225b2df196d085d65487095/416x416.jpg?background=000000&cropX1=89&cropX2=704&cropY1=81&cropY2=697
-5399,2020,None,None,https://specials-images.forbesimg.com/imageserve/59d7fd0731358e542c036eb5/416x416.jpg?background=000000&cropX1=575&cropX2=2287&cropY1=341&cropY2=2053
+5399,None,None,None,https://specials-images.forbesimg.com/imageserve/59d7fd0731358e542c036eb5/416x416.jpg?background=000000&cropX1=575&cropX2=2287&cropY1=341&cropY2=2053
 7963,78,Male,United States,https://specials-images.forbesimg.com/imageserve/59d7fdd831358e542c036ecf/416x416.jpg?background=000000&cropX1=169&cropX2=1611&cropY1=40&cropY2=1483
 1937,76,Male,None,https://specials-images.forbesimg.com/imageserve/59d7ff5531358e542c036ed6/416x416.jpg?background=000000&cropX1=352&cropX2=1206&cropY1=124&cropY2=978
 6423,85,Male,None,https://specials-images.forbesimg.com/imageserve/a4d43f17fff8159e27532df9db2b8c45/416x416.jpg?background=000000&cropX1=166&cropX2=744&cropY1=48&cropY2=627
@@ -595,11 +595,11 @@ id,age,gender,country,image
 1391,67,Male,None,https://specials-images.forbesimg.com/imageserve/5a7bb1f84bbe6f2652f4f39e/416x416.jpg?background=000000&cropX1=576&cropX2=4419&cropY1=0&cropY2=3840
 4022,63,None,United States,https://specials-images.forbesimg.com/imageserve/4f11bbb61e2f6e54d13d5d8d64b6af1a/416x416.jpg?background=000000&cropX1=5&cropX2=731&cropY1=61&cropY2=788
 2801,63,None,None,https://specials-images.forbesimg.com/imageserve/562e57f2e4b0ffa7afe645f1/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=113&cropY2=854
-3479,2020,None,None,https://specials-images.forbesimg.com/imageserve/5a806eb631358e4955ad27e5/416x416.jpg?background=000000&cropX1=1071&cropX2=4110&cropY1=7&cropY2=3046
+3479,None,None,None,https://specials-images.forbesimg.com/imageserve/5a806eb631358e4955ad27e5/416x416.jpg?background=000000&cropX1=1071&cropX2=4110&cropY1=7&cropY2=3046
 9947,52,None,Hong Kong,https://specials-images.forbesimg.com/imageserve/1d225270d1a088f84333d4b2d0d6932a/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=190&cropY2=934
 8472,81,Male,United States,https://specials-images.forbesimg.com/imageserve/5a8dda8ba7ea431690140c29/416x416.jpg?background=000000&cropX1=217&cropX2=2655&cropY1=249&cropY2=2686
 4611,62,Male,Japan,https://specials-images.forbesimg.com/imageserve/4b326a448b4132675e2cb6e3202fa061/416x416.jpg?background=000000&cropX1=0&cropX2=372&cropY1=2&cropY2=374
-1199,2020,Female,Germany,https://specials-images.forbesimg.com/imageserve/5a7e1c9e4bbe6f2652f52679/416x416.jpg?background=000000&cropX1=551&cropX2=2600&cropY1=289&cropY2=2340
+1199,None,Female,Germany,https://specials-images.forbesimg.com/imageserve/5a7e1c9e4bbe6f2652f52679/416x416.jpg?background=000000&cropX1=551&cropX2=2600&cropY1=289&cropY2=2340
 3124,84,Male,United States,https://specials-images.forbesimg.com/imageserve/57e06ef631358e16c589b9fd/416x416.jpg?background=000000&cropX1=79&cropX2=744&cropY1=44&cropY2=710
 9736,63,Male,USA,https://specials-images.forbesimg.com/imageserve/5a8dd4c6a7ea431690140b00/416x416.jpg?background=000000&cropX1=403&cropX2=1131&cropY1=270&cropY2=999
 4532,52,Female,None,https://specials-images.forbesimg.com/imageserve/5a8dd4c6a7ea431690140b00/416x416.jpg?background=000000&cropX1=403&cropX2=1131&cropY1=270&cropY2=999
@@ -644,7 +644,7 @@ id,age,gender,country,image
 2439,52,Male,None,https://specials-images.forbesimg.com/imageserve/5ad8dcad31358e4112b82e3d/416x416.jpg?background=000000&cropX1=203&cropX2=824&cropY1=152&cropY2=773
 4687,72,None,None,https://specials-images.forbesimg.com/imageserve/59dbdb144bbe6f37dda03642/416x416.jpg?background=000000&cropX1=1016&cropX2=2276&cropY1=43&cropY2=1304
 7416,71,Male,United States,https://specials-images.forbesimg.com/imageserve/5a8ddae031358e4955adfc22/416x416.jpg?background=000000&cropX1=734&cropX2=2134&cropY1=46&cropY2=1446
-9707,2020,Female,None,https://specials-images.forbesimg.com/imageserve/5a8ddae031358e4955adfc22/416x416.jpg?background=000000&cropX1=734&cropX2=2134&cropY1=46&cropY2=1446
+9707,None,Female,None,https://specials-images.forbesimg.com/imageserve/5a8ddae031358e4955adfc22/416x416.jpg?background=000000&cropX1=734&cropX2=2134&cropY1=46&cropY2=1446
 9911,88,Male,Norway,https://specials-images.forbesimg.com/imageserve/58a386e64bbe6f0e5586cff9/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=5&cropY2=748
 5703,73,None,None,https://specials-images.forbesimg.com/imageserve/580951f5a7ea435b91b04853/416x416.jpg?background=000000&cropX1=2&cropX2=743&cropY1=37&cropY2=778
 7718,65,Male,None,https://specials-images.forbesimg.com/imageserve/5a7d22214bbe6f2652f51261/416x416.jpg?background=000000&cropX1=518&cropX2=1853&cropY1=674&cropY2=2009
@@ -655,7 +655,7 @@ id,age,gender,country,image
 6269,80,Female,Italy,https://specials-images.forbesimg.com/imageserve/5a7f90bf31358e4955ad1df2/416x416.jpg?background=000000&cropX1=207&cropX2=2084&cropY1=218&cropY2=2096
 7928,83,None,Italy,https://specials-images.forbesimg.com/imageserve/5a7f9684a7ea431690132eb0/416x416.jpg?background=000000&cropX1=339&cropX2=1832&cropY1=240&cropY2=1734
 7041,52,Male,China,https://specials-images.forbesimg.com/imageserve/2b6a0c7bcd0e173f3b342365e3667d14/416x416.jpg?background=000000&cropX1=27&cropX2=705&cropY1=63&cropY2=741
-6174,2020,None,India,https://specials-images.forbesimg.com/imageserve/9d847c68baaab474610d6f09e72d3aff/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=300&cropY2=1044
+6174,None,None,India,https://specials-images.forbesimg.com/imageserve/9d847c68baaab474610d6f09e72d3aff/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=300&cropY2=1044
 6936,81,Male,None,https://specials-images.forbesimg.com/imageserve/5a7b795531358e4955acdd22/416x416.jpg?background=000000&cropX1=0&cropX2=3292&cropY1=330&cropY2=3620
 9931,87,Male,None,https://specials-images.forbesimg.com/imageserve/5a81552831358e4955ad3343/416x416.jpg?background=000000&cropX1=0&cropX2=4194&cropY1=0&cropY2=4192
 8337,74,Female,None,https://specials-images.forbesimg.com/imageserve/59231261a7ea434078d441dc/416x416.jpg?background=000000&cropX1=187&cropX2=1015&cropY1=89&cropY2=916
@@ -667,7 +667,7 @@ id,age,gender,country,image
 7991,60,Male,USA,https://specials-images.forbesimg.com/imageserve/59dbe96a31358e542c0382f6/416x416.jpg?background=000000&cropX1=227&cropX2=3304&cropY1=600&cropY2=3678
 5612,66,Male,Hong Kong,https://specials-images.forbesimg.com/imageserve/5a7e697a4bbe6f2652f52a5c/416x416.jpg?background=000000&cropX1=697&cropX2=3366&cropY1=0&cropY2=2667
 6853,73,Male,None,https://specials-images.forbesimg.com/imageserve/5a7f7a8f31358e4955ad1d1a/416x416.jpg?background=000000&cropX1=121&cropX2=855&cropY1=4&cropY2=738
-3794,2020,Female,None,https://specials-images.forbesimg.com/imageserve/5a7e2cd1a7ea431690132368/416x416.jpg?background=000000&cropX1=334&cropX2=1593&cropY1=572&cropY2=1832
+3794,None,Female,None,https://specials-images.forbesimg.com/imageserve/5a7e2cd1a7ea431690132368/416x416.jpg?background=000000&cropX1=334&cropX2=1593&cropY1=572&cropY2=1832
 7134,57,Male,None,https://specials-images.forbesimg.com/imageserve/d7f2d1d54a71e885322e1318b12e4baf/416x416.jpg?background=000000&cropX1=64&cropX2=644&cropY1=105&cropY2=685
 9229,53,Male,None,https://specials-images.forbesimg.com/imageserve/59dbdd1e31358e542c0381c2/416x416.jpg?background=000000&cropX1=263&cropX2=880&cropY1=174&cropY2=791
 8329,61,Male,USA,https://specials-images.forbesimg.com/imageserve/3583fac6b4a087511b3779870cca97f2/416x416.jpg?background=000000&cropX1=116&cropX2=744&cropY1=147&cropY2=775
@@ -693,7 +693,7 @@ id,age,gender,country,image
 3162,72,Male,None,https://specials-images.forbesimg.com/imageserve/2fa78ea6d7b94752e196e514f98f2b32/416x416.jpg?background=000000&cropX1=215&cropX2=478&cropY1=121&cropY2=384
 8456,53,Male,None,https://specials-images.forbesimg.com/imageserve/7d960a12106161ba41d33763044465e8/416x416.jpg?background=000000&cropX1=37&cropX2=739&cropY1=214&cropY2=917
 8906,59,Male,None,https://specials-images.forbesimg.com/imageserve/5a7fda0131358e4955ad22ba/416x416.jpg?background=000000&cropX1=99&cropX2=1496&cropY1=290&cropY2=1688
-2861,2020,None,None,https://specials-images.forbesimg.com/imageserve/5a7fda0131358e4955ad22ba/416x416.jpg?background=000000&cropX1=99&cropX2=1496&cropY1=290&cropY2=1688
+2861,None,None,None,https://specials-images.forbesimg.com/imageserve/5a7fda0131358e4955ad22ba/416x416.jpg?background=000000&cropX1=99&cropX2=1496&cropY1=290&cropY2=1688
 8514,46,Male,None,https://specials-images.forbesimg.com/imageserve/58a2357231358e1a35ab4fc2/416x416.jpg?background=000000&cropX1=81&cropX2=566&cropY1=77&cropY2=562
 6313,63,Male,Israel,https://specials-images.forbesimg.com/imageserve/58a2357231358e1a35ab4fc2/416x416.jpg?background=000000&cropX1=81&cropX2=566&cropY1=77&cropY2=562
 3754,50,Male,Russia,https://specials-images.forbesimg.com/imageserve/5a808ae2a7ea431690133990/416x416.jpg?background=000000&cropX1=155&cropX2=1287&cropY1=32&cropY2=1164
@@ -702,7 +702,7 @@ id,age,gender,country,image
 9265,86,Male,Spain,https://specials-images.forbesimg.com/imageserve/5a81131e31358e4955ad304e/416x416.jpg?background=000000&cropX1=424&cropX2=1874&cropY1=0&cropY2=1449
 4779,76,None,None,https://specials-images.forbesimg.com/imageserve/59dbef824bbe6f37dda038b6/416x416.jpg?background=000000&cropX1=800&cropX2=3166&cropY1=120&cropY2=2487
 3773,64,Male,None,https://specials-images.forbesimg.com/imageserve/5a7f094931358e4955ad1774/416x416.jpg?background=000000&cropX1=1189&cropX2=3858&cropY1=0&cropY2=2667
-9571,2020,Male,United Arab Emirates,https://specials-images.forbesimg.com/imageserve/5a814fe9a7ea431690134265/416x416.jpg?background=000000&cropX1=0&cropX2=1832&cropY1=7&cropY2=1840
+9571,None,Male,United Arab Emirates,https://specials-images.forbesimg.com/imageserve/5a814fe9a7ea431690134265/416x416.jpg?background=000000&cropX1=0&cropX2=1832&cropY1=7&cropY2=1840
 7863,44,Male,None,https://specials-images.forbesimg.com/imageserve/a3017e8a0ede213af3e6fa3ec077eeb1/416x416.jpg?background=000000&cropX1=47&cropX2=686&cropY1=44&cropY2=684
 6582,76,Male,None,https://specials-images.forbesimg.com/imageserve/480c54a2945f8faefb9d7ecc7c558370/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=84&cropY2=827
 7619,69,Male,None,https://specials-images.forbesimg.com/imageserve/c07db9e47d266d4355f90e11bb8f4def/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=8&cropY2=749
@@ -730,7 +730,7 @@ id,age,gender,country,image
 4854,41,Female,Germany,https://specials-images.forbesimg.com/imageserve/5a7e617731358e4955ad143f/416x416.jpg?background=000000&cropX1=197&cropX2=2860&cropY1=428&cropY2=3092
 1982,72,Male,Italy,https://specials-images.forbesimg.com/imageserve/5a7f9d4931358e4955ad1e94/416x416.jpg?background=000000&cropX1=23&cropX2=1301&cropY1=294&cropY2=1571
 7958,80,Male,None,https://specials-images.forbesimg.com/imageserve/59dbe3c431358e542c038278/416x416.jpg?background=000000&cropX1=262&cropX2=1248&cropY1=413&cropY2=1399
-8010,2020,None,United States,https://specials-images.forbesimg.com/imageserve/57d80a5a4bbe6f6781c4e59f/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=85&cropY2=829
+8010,None,None,United States,https://specials-images.forbesimg.com/imageserve/57d80a5a4bbe6f6781c4e59f/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=85&cropY2=829
 4887,65,Male,None,https://specials-images.forbesimg.com/imageserve/59dd1e83a7ea436b47b3ab4a/416x416.jpg?background=000000&cropX1=321&cropX2=2641&cropY1=68&cropY2=2387
 1137,75,Male,USA,https://specials-images.forbesimg.com/imageserve/59dbebf94bbe6f37dda03841/416x416.jpg?background=000000&cropX1=171&cropX2=3204&cropY1=414&cropY2=3450
 3468,74,None,None,https://specials-images.forbesimg.com/imageserve/5a8dd9c0a7ea431690140c0b/416x416.jpg?background=000000&cropX1=1344&cropX2=3427&cropY1=257&cropY2=2338
@@ -822,7 +822,7 @@ id,age,gender,country,image
 8846,48,None,People's Republic of China,https://specials-images.forbesimg.com/imageserve/eb0f2e7c5736b370425f7365da5bacad/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=76&cropY2=820
 7152,76,Male,None,https://specials-images.forbesimg.com/imageserve/59e64f6331358e542c03d8cd/416x416.jpg?background=000000&cropX1=1815&cropX2=2451&cropY1=349&cropY2=985
 3163,65,Male,None,https://specials-images.forbesimg.com/imageserve/5a8df4f031358e4955adff5c/416x416.jpg?background=000000&cropX1=103&cropX2=948&cropY1=5&cropY2=851
-9832,2020,None,None,https://specials-images.forbesimg.com/imageserve/5a8df4f031358e4955adff5c/416x416.jpg?background=000000&cropX1=103&cropX2=948&cropY1=5&cropY2=851
+9832,None,None,None,https://specials-images.forbesimg.com/imageserve/5a8df4f031358e4955adff5c/416x416.jpg?background=000000&cropX1=103&cropX2=948&cropY1=5&cropY2=851
 4371,74,Male,None,https://specials-images.forbesimg.com/imageserve/5fc2a1468e3fa5f7e688c992791f5e72/416x416.jpg?background=000000&cropX1=26&cropX2=698&cropY1=102&cropY2=774
 6152,67,Female,None,https://specials-images.forbesimg.com/imageserve/5a7f5040a7ea431690132bc3/416x416.jpg?background=000000&cropX1=27&cropX2=809&cropY1=55&cropY2=836
 4620,47,Male,People's Republic of China,https://specials-images.forbesimg.com/imageserve/589cf24031358e1a35ab09c3/416x416.jpg?background=000000&cropX1=89&cropX2=740&cropY1=2&cropY2=653
@@ -888,7 +888,7 @@ id,age,gender,country,image
 8401,70,Male,France,https://specials-images.forbesimg.com/imageserve/5a7df31f4bbe6f2652f520cc/416x416.jpg?background=000000&cropX1=20&cropX2=3048&cropY1=7&cropY2=3034
 2631,59,Male,None,https://specials-images.forbesimg.com/imageserve/5a7f08f14bbe6f2652f52d0b/416x416.jpg?background=000000&cropX1=202&cropX2=2287&cropY1=0&cropY2=2084
 5881,69,Male,Chile,https://specials-images.forbesimg.com/imageserve/5a67596fa7ea4316901185cf/416x416.jpg?background=000000&cropX1=1582&cropX2=3501&cropY1=204&cropY2=2122
-2332,2020,None,None,https://specials-images.forbesimg.com/imageserve/5a67596fa7ea4316901185cf/416x416.jpg?background=000000&cropX1=1582&cropX2=3501&cropY1=204&cropY2=2122
+2332,None,None,None,https://specials-images.forbesimg.com/imageserve/5a67596fa7ea4316901185cf/416x416.jpg?background=000000&cropX1=1582&cropX2=3501&cropY1=204&cropY2=2122
 4079,60,Male,None,https://specials-images.forbesimg.com/imageserve/577687c631358e0aa22dc1a5/416x416.jpg?background=000000&cropX1=108&cropX2=714&cropY1=55&cropY2=661
 6626,76,None,None,https://specials-images.forbesimg.com/imageserve/57e16edba7ea430a8a1a0c09/416x416.jpg?background=000000&cropX1=87&cropX2=712&cropY1=89&cropY2=714
 7518,71,Male,None,https://specials-images.forbesimg.com/imageserve/5a8de2134bbe6f2652f629a9/416x416.jpg?background=000000&cropX1=1256&cropX2=2139&cropY1=120&cropY2=1004
@@ -915,7 +915,7 @@ id,age,gender,country,image
 6407,54,None,None,https://specials-images.forbesimg.com/imageserve/5a812d7631358e4955ad3185/416x416.jpg?background=000000&cropX1=843&cropX2=4326&cropY1=56&cropY2=3542
 4508,58,Male,Canada,https://specials-images.forbesimg.com/imageserve/5a7bb008a7ea43169012f2a6/416x416.jpg?background=000000&cropX1=0&cropX2=3068&cropY1=500&cropY2=3570
 4121,65,Male,None,https://specials-images.forbesimg.com/imageserve/e8b1186ea9e21c1c570036b328515e57/416x416.jpg?background=000000&cropX1=100&cropX2=467&cropY1=25&cropY2=392
-2024,2020,Male,None,https://specials-images.forbesimg.com/imageserve/e8b1186ea9e21c1c570036b328515e57/416x416.jpg?background=000000&cropX1=100&cropX2=467&cropY1=25&cropY2=392
+2024,None,Male,None,https://specials-images.forbesimg.com/imageserve/e8b1186ea9e21c1c570036b328515e57/416x416.jpg?background=000000&cropX1=100&cropX2=467&cropY1=25&cropY2=392
 9395,69,None,United States,https://specials-images.forbesimg.com/imageserve/5b06f4904bbe6f74868a643b/416x416.jpg?background=000000&cropX1=780&cropX2=2482&cropY1=549&cropY2=2250
 7969,58,Male,None,https://specials-images.forbesimg.com/imageserve/5a7f9f624bbe6f2652f533f6/416x416.jpg?background=000000&cropX1=458&cropX2=3372&cropY1=8&cropY2=2923
 4531,73,Male,United States,https://specials-images.forbesimg.com/imageserve/8ee60287ddfbb68f562a1f22fb88f721/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=27&cropY2=771
@@ -1007,7 +1007,7 @@ id,age,gender,country,image
 8449,48,None,None,https://specials-images.forbesimg.com/imageserve/5ac958a4a7ea432fbc1e59cf/416x416.jpg?background=000000&cropX1=731&cropX2=1937&cropY1=417&cropY2=1623
 4720,56,Male,None,https://specials-images.forbesimg.com/imageserve/58a0f626a7ea431f32195be9/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=29&cropY2=773
 4888,70,Male,None,https://specials-images.forbesimg.com/imageserve/58a2932931358e1a35ab549d/416x416.jpg?background=000000&cropX1=21&cropX2=744&cropY1=58&cropY2=782
-2392,2020,None,None,https://specials-images.forbesimg.com/imageserve/58c84fd631358e1a35acffa9/416x416.jpg?background=000000&cropX1=100&cropX2=593&cropY1=305&cropY2=798
+2392,None,None,None,https://specials-images.forbesimg.com/imageserve/58c84fd631358e1a35acffa9/416x416.jpg?background=000000&cropX1=100&cropX2=593&cropY1=305&cropY2=798
 2309,69,Male,United States,https://specials-images.forbesimg.com/imageserve/59de6f2ca7ea436b47b3b815/416x416.jpg?background=000000&cropX1=431&cropX2=3552&cropY1=490&cropY2=3612
 7590,58,Male,None,https://specials-images.forbesimg.com/imageserve/5a8372604bbe6f2652f5804d/416x416.jpg?background=000000&cropX1=422&cropX2=1553&cropY1=69&cropY2=1200
 1185,68,Male,People's Republic of China,https://specials-images.forbesimg.com/imageserve/c3653c28ec41a0342432ee78a9d95c46/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=6&cropY2=747
@@ -1027,7 +1027,7 @@ id,age,gender,country,image
 8776,48,Female,None,https://specials-images.forbesimg.com/imageserve/913c271ffb6af89c53465bf2b73b8992/416x416.jpg?background=000000&cropX1=34&cropX2=623&cropY1=0&cropY2=590
 8913,91,Male,None,https://specials-images.forbesimg.com/imageserve/5a7badf34bbe6f2652f4f383/416x416.jpg?background=000000&cropX1=3&cropX2=1249&cropY1=420&cropY2=1666
 3788,71,None,Brazil,https://specials-images.forbesimg.com/imageserve/5a7b8b324bbe6f2652f4f0a4/416x416.jpg?background=000000&cropX1=334&cropX2=2327&cropY1=9&cropY2=2000
-5860,2020,None,None,https://specials-images.forbesimg.com/imageserve/59cc130131358e542c02fbb3/416x416.jpg?background=000000&cropX1=23&cropX2=3648&cropY1=821&cropY2=4448
+5860,None,None,None,https://specials-images.forbesimg.com/imageserve/59cc130131358e542c02fbb3/416x416.jpg?background=000000&cropX1=23&cropX2=3648&cropY1=821&cropY2=4448
 1031,71,Female,None,https://specials-images.forbesimg.com/imageserve/413522d9d9bee09400dc7128d02fff17/416x416.jpg?background=000000&cropX1=124&cropX2=736&cropY1=5&cropY2=617
 7234,48,Male,None,https://specials-images.forbesimg.com/imageserve/413522d9d9bee09400dc7128d02fff17/416x416.jpg?background=000000&cropX1=124&cropX2=736&cropY1=5&cropY2=617
 2766,53,None,Switzerland,https://specials-images.forbesimg.com/imageserve/413522d9d9bee09400dc7128d02fff17/416x416.jpg?background=000000&cropX1=124&cropX2=736&cropY1=5&cropY2=617
@@ -1077,7 +1077,7 @@ id,age,gender,country,image
 7428,61,Male,None,https://specials-images.forbesimg.com/imageserve/58c70d5b4bbe6f0e55888018/416x416.jpg?background=000000&cropX1=108&cropX2=623&cropY1=76&cropY2=592
 7793,60,Male,India,https://specials-images.forbesimg.com/imageserve/57d88fc5a7ea430a8a19de14/416x416.jpg?background=000000&cropX1=0&cropX2=596&cropY1=205&cropY2=801
 2195,92,None,United States,https://specials-images.forbesimg.com/imageserve/56d0c6cde4b0c144a7f65c04/416x416.jpg?background=000000&cropX1=16&cropX2=704&cropY1=6&cropY2=694
-7192,2020,Male,India,https://specials-images.forbesimg.com/imageserve/56d0c6cde4b0c144a7f65c04/416x416.jpg?background=000000&cropX1=16&cropX2=704&cropY1=6&cropY2=694
+7192,None,Male,India,https://specials-images.forbesimg.com/imageserve/56d0c6cde4b0c144a7f65c04/416x416.jpg?background=000000&cropX1=16&cropX2=704&cropY1=6&cropY2=694
 2423,59,None,United States,https://specials-images.forbesimg.com/imageserve/5a8deca3a7ea431690140e2c/416x416.jpg?background=000000&cropX1=620&cropX2=1454&cropY1=82&cropY2=916
 5379,55,None,People's Republic of China,https://specials-images.forbesimg.com/imageserve/5a7cb6284bbe6f2652f508cd/416x416.jpg?background=000000&cropX1=2&cropX2=1125&cropY1=20&cropY2=1144
 7784,89,Male,None,https://specials-images.forbesimg.com/imageserve/8fb2161d3cd11b07d39227faf600d16f/416x416.jpg?background=000000&cropX1=200&cropX2=638&cropY1=11&cropY2=449
@@ -1107,7 +1107,7 @@ id,age,gender,country,image
 7386,65,Male,None,https://specials-images.forbesimg.com/imageserve/55f78925e4b0ffa7afe494ac/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=45&cropY2=788
 7311,68,Male,USA,https://specials-images.forbesimg.com/imageserve/5a8dfe9c4bbe6f2652f62d5b/416x416.jpg?background=000000&cropX1=934&cropX2=3445&cropY1=814&cropY2=3325
 7533,35,None,None,https://specials-images.forbesimg.com/imageserve/5a7fd156a7ea4316901331b3/416x416.jpg?background=000000&cropX1=4&cropX2=1489&cropY1=37&cropY2=1522
-6642,2020,Female,None,https://specials-images.forbesimg.com/imageserve/5a7fd156a7ea4316901331b3/416x416.jpg?background=000000&cropX1=4&cropX2=1489&cropY1=37&cropY2=1522
+6642,None,Female,None,https://specials-images.forbesimg.com/imageserve/5a7fd156a7ea4316901331b3/416x416.jpg?background=000000&cropX1=4&cropX2=1489&cropY1=37&cropY2=1522
 3756,43,None,United States,https://specials-images.forbesimg.com/imageserve/59d6653f31358e542c035e9c/416x416.jpg?background=000000&cropX1=1057&cropX2=2137&cropY1=315&cropY2=1396
 3704,57,Male,None,https://specials-images.forbesimg.com/imageserve/59d6653f31358e542c035e9c/416x416.jpg?background=000000&cropX1=1057&cropX2=2137&cropY1=315&cropY2=1396
 6669,58,Male,United States,https://specials-images.forbesimg.com/imageserve/59de48ea31358e542c039b77/416x416.jpg?background=000000&cropX1=280&cropX2=2949&cropY1=0&cropY2=2667
@@ -1132,7 +1132,7 @@ id,age,gender,country,image
 7729,74,Male,United States,https://specials-images.forbesimg.com/imageserve/55fb08f5e4b0ffa7afe4b3f6/416x416.jpg?background=000000&cropX1=97&cropX2=641&cropY1=44&cropY2=589
 8578,48,Male,None,https://specials-images.forbesimg.com/imageserve/5aabd0b94bbe6f0fa8287d8a/416x416.jpg?background=000000&cropX1=1983&cropX2=5067&cropY1=87&cropY2=3173
 6762,65,Male,Singapore,https://specials-images.forbesimg.com/imageserve/5a80f0caa7ea431690133ec9/416x416.jpg?background=000000&cropX1=238&cropX2=1550&cropY1=5&cropY2=1319
-4475,2020,Male,None,https://specials-images.forbesimg.com/imageserve/b145b98dfd868aba1fd104d573032733/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=211&cropY2=955
+4475,None,Male,None,https://specials-images.forbesimg.com/imageserve/b145b98dfd868aba1fd104d573032733/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=211&cropY2=955
 7142,44,Male,None,https://specials-images.forbesimg.com/imageserve/5a8115e1a7ea43169013404b/416x416.jpg?background=000000&cropX1=714&cropX2=1463&cropY1=120&cropY2=868
 6384,69,None,None,https://specials-images.forbesimg.com/imageserve/12cec189312ff7ec643365d00e008b56/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=77&cropY2=821
 9448,72,Male,United States,https://specials-images.forbesimg.com/imageserve/55fb106ae4b0ffa7afe4b438/416x416.jpg?background=000000&cropX1=151&cropX2=670&cropY1=73&cropY2=592
@@ -1142,7 +1142,7 @@ id,age,gender,country,image
 2395,55,Male,None,https://specials-images.forbesimg.com/imageserve/5a7cec0b31358e4955acfc0e/416x416.jpg?background=000000&cropX1=484&cropX2=1908&cropY1=142&cropY2=1566
 2639,70,None,None,https://specials-images.forbesimg.com/imageserve/56c7be16e4b062f6b59a23d1/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=3&cropY2=744
 2982,50,Male,None,https://specials-images.forbesimg.com/imageserve/5a80aef631358e4955ad2ba1/416x416.jpg?background=000000&cropX1=611&cropX2=3329&cropY1=18&cropY2=2734
-2772,2020,Male,None,https://specials-images.forbesimg.com/imageserve/57768767a7ea436bd18c0d1e/416x416.jpg?background=000000&cropX1=116&cropX2=696&cropY1=3&cropY2=583
+2772,None,Male,None,https://specials-images.forbesimg.com/imageserve/57768767a7ea436bd18c0d1e/416x416.jpg?background=000000&cropX1=116&cropX2=696&cropY1=3&cropY2=583
 1018,81,None,None,https://specials-images.forbesimg.com/imageserve/57768767a7ea436bd18c0d1e/416x416.jpg?background=000000&cropX1=116&cropX2=696&cropY1=3&cropY2=583
 4547,79,Male,United States,https://specials-images.forbesimg.com/imageserve/5a8dfcaa4bbe6f2652f62ce6/416x416.jpg?background=000000&cropX1=527&cropX2=1496&cropY1=180&cropY2=1148
 1828,54,Male,None,https://specials-images.forbesimg.com/imageserve/5602cdb6e4b0ffa7afe4f94a/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=3&cropY2=746
@@ -1153,7 +1153,7 @@ id,age,gender,country,image
 3356,61,None,None,https://specials-images.forbesimg.com/imageserve/6ce9fb50a8c04c7a7738cc48510c1582/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=208&cropY2=952
 7317,69,Male,None,https://specials-images.forbesimg.com/imageserve/17575027bdc253768c3f5179976023df/416x416.jpg?background=000000&cropX1=93&cropX2=716&cropY1=13&cropY2=637
 5858,77,Male,USA,https://specials-images.forbesimg.com/imageserve/17575027bdc253768c3f5179976023df/416x416.jpg?background=000000&cropX1=93&cropX2=716&cropY1=13&cropY2=637
-7158,2020,Male,United Kingdom,https://specials-images.forbesimg.com/imageserve/5a70f2234bbe6f2652f40dcb/416x416.jpg?background=000000&cropX1=38&cropX2=390&cropY1=0&cropY2=352
+7158,None,Male,United Kingdom,https://specials-images.forbesimg.com/imageserve/5a70f2234bbe6f2652f40dcb/416x416.jpg?background=000000&cropX1=38&cropX2=390&cropY1=0&cropY2=352
 3893,57,Male,China,https://specials-images.forbesimg.com/imageserve/589f2ba431358e1a35ab26e5/416x416.jpg?background=000000&cropX1=3&cropX2=689&cropY1=2&cropY2=688
 8211,74,Male,None,https://specials-images.forbesimg.com/imageserve/5a8dfe1ca7ea4316901410b1/416x416.jpg?background=000000&cropX1=421&cropX2=1325&cropY1=298&cropY2=1202
 6810,64,Female,None,https://specials-images.forbesimg.com/imageserve/5a6759cca7ea4316901185ea/416x416.jpg?background=000000&cropX1=200&cropX2=770&cropY1=42&cropY2=612
@@ -1181,7 +1181,7 @@ id,age,gender,country,image
 6769,77,None,None,https://specials-images.forbesimg.com/imageserve/5a7e5e774bbe6f2652f52a06/416x416.jpg?background=000000&cropX1=8&cropX2=3521&cropY1=370&cropY2=3886
 1152,68,Male,None,https://specials-images.forbesimg.com/imageserve/5a7e5e774bbe6f2652f52a06/416x416.jpg?background=000000&cropX1=8&cropX2=3521&cropY1=370&cropY2=3886
 4277,77,Male,France,https://specials-images.forbesimg.com/imageserve/5a7dea4331358e4955ad09ae/416x416.jpg?background=000000&cropX1=965&cropX2=4960&cropY1=0&cropY2=3992
-4076,2020,None,Germany,https://specials-images.forbesimg.com/imageserve/5a7dea4331358e4955ad09ae/416x416.jpg?background=000000&cropX1=965&cropX2=4960&cropY1=0&cropY2=3992
+4076,None,None,Germany,https://specials-images.forbesimg.com/imageserve/5a7dea4331358e4955ad09ae/416x416.jpg?background=000000&cropX1=965&cropX2=4960&cropY1=0&cropY2=3992
 6223,65,Male,None,https://specials-images.forbesimg.com/imageserve/bcf772256ab66402949eef9d69e6e20f/416x416.jpg?background=000000&cropX1=2&cropX2=600&cropY1=0&cropY2=598
 4010,67,Male,People's Republic of China,https://specials-images.forbesimg.com/imageserve/5a8df8dc31358e4955adffa6/416x416.jpg?background=000000&cropX1=491&cropX2=3171&cropY1=0&cropY2=2677
 1712,49,None,People's Republic of China,https://specials-images.forbesimg.com/imageserve/05045a69750222dbe55bce25e523ad1c/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=224&cropY2=965
@@ -1229,7 +1229,7 @@ id,age,gender,country,image
 7524,59,None,None,https://specials-images.forbesimg.com/imageserve/59de7c1f31358e542c039f26/416x416.jpg?background=000000&cropX1=621&cropX2=1842&cropY1=330&cropY2=1551
 6492,55,Female,None,https://specials-images.forbesimg.com/imageserve/59de7c1f31358e542c039f26/416x416.jpg?background=000000&cropX1=621&cropX2=1842&cropY1=330&cropY2=1551
 5435,47,Male,China,https://specials-images.forbesimg.com/imageserve/59de7c1f31358e542c039f26/416x416.jpg?background=000000&cropX1=621&cropX2=1842&cropY1=330&cropY2=1551
-9691,2020,Male,None,https://specials-images.forbesimg.com/imageserve/4918482bf6002ee65717261954ba7148/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=44&cropY2=788
+9691,None,Male,None,https://specials-images.forbesimg.com/imageserve/4918482bf6002ee65717261954ba7148/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=44&cropY2=788
 4842,61,None,None,https://specials-images.forbesimg.com/imageserve/5a8dfd08a7ea431690141099/416x416.jpg?background=000000&cropX1=1452&cropX2=2856&cropY1=438&cropY2=1841
 4232,74,None,None,https://specials-images.forbesimg.com/imageserve/e3fd6b2d18ee5fda5cb316a7cea561d6/416x416.jpg?background=000000&cropX1=155&cropX2=551&cropY1=61&cropY2=457
 3114,72,Male,Brazil,https://specials-images.forbesimg.com/imageserve/5a7b7e7fa7ea43169012eeaa/416x416.jpg?background=000000&cropX1=0&cropX2=2740&cropY1=22&cropY2=2760
@@ -1288,8 +1288,8 @@ id,age,gender,country,image
 6096,82,Male,Germany,https://specials-images.forbesimg.com/imageserve/f5c29e3cca4603520881dc6d5c9e2c6b/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=19&cropY2=762
 4301,68,Male,None,https://specials-images.forbesimg.com/imageserve/1edeb6db1484069b9169eba6abaacea4/416x416.jpg?background=000000&cropX1=5&cropX2=744&cropY1=6&cropY2=746
 2452,99,Male,None,https://specials-images.forbesimg.com/imageserve/1edeb6db1484069b9169eba6abaacea4/416x416.jpg?background=000000&cropX1=5&cropX2=744&cropY1=6&cropY2=746
-8066,2020,Male,None,https://specials-images.forbesimg.com/imageserve/1edeb6db1484069b9169eba6abaacea4/416x416.jpg?background=000000&cropX1=5&cropX2=744&cropY1=6&cropY2=746
-3481,2020,None,None,https://specials-images.forbesimg.com/imageserve/5a812736a7ea4316901340c1/416x416.jpg?background=000000&cropX1=1951&cropX2=4163&cropY1=658&cropY2=2868
+8066,None,Male,None,https://specials-images.forbesimg.com/imageserve/1edeb6db1484069b9169eba6abaacea4/416x416.jpg?background=000000&cropX1=5&cropX2=744&cropY1=6&cropY2=746
+3481,None,None,None,https://specials-images.forbesimg.com/imageserve/5a812736a7ea4316901340c1/416x416.jpg?background=000000&cropX1=1951&cropX2=4163&cropY1=658&cropY2=2868
 1920,54,Male,None,https://specials-images.forbesimg.com/imageserve/5a8123ab4bbe6f2652f54614/416x416.jpg?background=000000&cropX1=484&cropX2=2473&cropY1=4&cropY2=1991
 5878,59,None,None,https://specials-images.forbesimg.com/imageserve/5a8eddbd4bbe6f2652f635d5/416x416.jpg?background=000000&cropX1=570&cropX2=2499&cropY1=167&cropY2=2096
 4271,80,Male,None,https://specials-images.forbesimg.com/imageserve/5a7de9d14bbe6f2652f51fbf/416x416.jpg?background=000000&cropX1=139&cropX2=2043&cropY1=154&cropY2=2059
@@ -1382,7 +1382,7 @@ id,age,gender,country,image
 3546,63,None,None,https://specials-images.forbesimg.com/imageserve/56d0b77de4b0c144a7f65a94/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=68&cropY2=811
 5048,55,Male,None,https://specials-images.forbesimg.com/imageserve/5a7fdedda7ea43169013326a/416x416.jpg?background=000000&cropX1=57&cropX2=1924&cropY1=35&cropY2=1903
 5229,43,Female,None,https://specials-images.forbesimg.com/imageserve/5a7e1ae24bbe6f2652f52654/416x416.jpg?background=000000&cropX1=846&cropX2=4153&cropY1=0&cropY2=3305
-6368,2020,Male,None,https://specials-images.forbesimg.com/imageserve/58a1e04c31358e1a35ab439d/416x416.jpg?background=000000&cropX1=45&cropX2=744&cropY1=24&cropY2=723
+6368,None,Male,None,https://specials-images.forbesimg.com/imageserve/58a1e04c31358e1a35ab439d/416x416.jpg?background=000000&cropX1=45&cropX2=744&cropY1=24&cropY2=723
 5462,68,Male,China,https://specials-images.forbesimg.com/imageserve/64f4574ad7b5505ab16f5d497d87e711/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=5&cropY2=746
 2129,58,Male,None,https://specials-images.forbesimg.com/imageserve/64f4574ad7b5505ab16f5d497d87e711/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=5&cropY2=746
 2130,45,Male,None,https://specials-images.forbesimg.com/imageserve/5a814997a7ea43169013423c/416x416.jpg?background=000000&cropX1=510&cropX2=2960&cropY1=0&cropY2=2449
@@ -1501,7 +1501,7 @@ id,age,gender,country,image
 8434,58,Male,None,https://specials-images.forbesimg.com/imageserve/5898b33e31358e590cda3d77/416x416.jpg?background=000000&cropX1=55&cropX2=744&cropY1=26&cropY2=716
 2921,60,Male,United States,https://specials-images.forbesimg.com/imageserve/5a84c3ff31358e4955ad7cdd/416x416.jpg?background=000000&cropX1=0&cropX2=576&cropY1=23&cropY2=599
 5460,76,None,United States,https://specials-images.forbesimg.com/imageserve/5a8ee00ca7ea43169014191b/416x416.jpg?background=000000&cropX1=1466&cropX2=4449&cropY1=128&cropY2=3109
-1858,2020,Male,None,https://specials-images.forbesimg.com/imageserve/5a7a336331358e4955acc589/416x416.jpg?background=000000&cropX1=539&cropX2=2368&cropY1=12&cropY2=1842
+1858,None,Male,None,https://specials-images.forbesimg.com/imageserve/5a7a336331358e4955acc589/416x416.jpg?background=000000&cropX1=539&cropX2=2368&cropY1=12&cropY2=1842
 5672,72,Male,None,https://specials-images.forbesimg.com/imageserve/98ff8ca7e8482f8118eec56850275103/416x416.jpg?background=000000&cropX1=50&cropX2=691&cropY1=108&cropY2=749
 9788,75,None,None,https://specials-images.forbesimg.com/imageserve/5a86c7ba4bbe6f2652f5bab3/416x416.jpg?background=000000&cropX1=1270&cropX2=3101&cropY1=106&cropY2=1936
 2407,51,None,Cyprus,https://specials-images.forbesimg.com/imageserve/5a7dce784bbe6f2652f51be3/416x416.jpg?background=000000&cropX1=937&cropX2=3486&cropY1=143&cropY2=2690
@@ -1559,7 +1559,7 @@ id,age,gender,country,image
 1880,53,Male,None,https://specials-images.forbesimg.com/imageserve/5a7d285331358e4955acfe2b/416x416.jpg?background=000000&cropX1=1821&cropX2=5472&cropY1=0&cropY2=3648
 9016,75,Male,People's Republic of China,https://specials-images.forbesimg.com/imageserve/5a7d285331358e4955acfe2b/416x416.jpg?background=000000&cropX1=1821&cropX2=5472&cropY1=0&cropY2=3648
 6939,56,Male,None,https://specials-images.forbesimg.com/imageserve/5a7d285331358e4955acfe2b/416x416.jpg?background=000000&cropX1=1821&cropX2=5472&cropY1=0&cropY2=3648
-7513,2020,None,None,https://specials-images.forbesimg.com/imageserve/5a7d285331358e4955acfe2b/416x416.jpg?background=000000&cropX1=1821&cropX2=5472&cropY1=0&cropY2=3648
+7513,None,None,None,https://specials-images.forbesimg.com/imageserve/5a7d285331358e4955acfe2b/416x416.jpg?background=000000&cropX1=1821&cropX2=5472&cropY1=0&cropY2=3648
 8163,39,None,None,https://specials-images.forbesimg.com/imageserve/5a7d285331358e4955acfe2b/416x416.jpg?background=000000&cropX1=1821&cropX2=5472&cropY1=0&cropY2=3648
 6726,67,Female,None,https://specials-images.forbesimg.com/imageserve/5a7fd86e4bbe6f2652f53728/416x416.jpg?background=000000&cropX1=287&cropX2=2280&cropY1=9&cropY2=2000
 6173,70,None,None,https://specials-images.forbesimg.com/imageserve/5a7fd86e4bbe6f2652f53728/416x416.jpg?background=000000&cropX1=287&cropX2=2280&cropY1=9&cropY2=2000
@@ -1631,7 +1631,7 @@ id,age,gender,country,image
 5634,85,Male,None,https://specials-images.forbesimg.com/imageserve/5a7ba8634bbe6f2652f4f2f0/416x416.jpg?background=000000&cropX1=484&cropX2=2866&cropY1=6&cropY2=2389
 5350,35,Male,None,https://specials-images.forbesimg.com/imageserve/58c1a2eba7ea431f321ad96b/416x416.jpg?background=000000&cropX1=63&cropX2=733&cropY1=13&cropY2=683
 6806,95,Male,None,https://specials-images.forbesimg.com/imageserve/2c9342e6b6c03eec93a23ec68d9abad9/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=47&cropY2=791
-3496,2020,Female,China,https://specials-images.forbesimg.com/imageserve/2c9342e6b6c03eec93a23ec68d9abad9/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=47&cropY2=791
+3496,None,Female,China,https://specials-images.forbesimg.com/imageserve/2c9342e6b6c03eec93a23ec68d9abad9/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=47&cropY2=791
 6023,44,Male,People's Republic of China,https://specials-images.forbesimg.com/imageserve/2c9342e6b6c03eec93a23ec68d9abad9/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=47&cropY2=791
 3439,78,Male,USA,https://specials-images.forbesimg.com/imageserve/56d1b782e4b0c144a7f6639a/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=21&cropY2=765
 5986,64,None,USA,https://specials-images.forbesimg.com/imageserve/56d1b782e4b0c144a7f6639a/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=21&cropY2=765
@@ -1717,8 +1717,8 @@ id,age,gender,country,image
 5801,69,None,None,https://specials-images.forbesimg.com/imageserve/5a7b99144bbe6f2652f4f1ec/416x416.jpg?background=000000&cropX1=2137&cropX2=5492&cropY1=24&cropY2=3377
 8221,39,Male,None,https://specials-images.forbesimg.com/imageserve/5a8120c84bbe6f2652f545eb/416x416.jpg?background=000000&cropX1=3&cropX2=1344&cropY1=9&cropY2=1349
 1591,57,Male,None,https://specials-images.forbesimg.com/imageserve/5a814f004bbe6f2652f54790/416x416.jpg?background=000000&cropX1=17&cropX2=2820&cropY1=120&cropY2=2926
-6694,2020,Male,Italy,https://specials-images.forbesimg.com/imageserve/5a814f004bbe6f2652f54790/416x416.jpg?background=000000&cropX1=17&cropX2=2820&cropY1=120&cropY2=2926
-6142,2020,None,None,https://specials-images.forbesimg.com/imageserve/5a7f97da31358e4955ad1e5c/416x416.jpg?background=000000&cropX1=131&cropX2=1695&cropY1=72&cropY2=1636
+6694,None,Male,Italy,https://specials-images.forbesimg.com/imageserve/5a814f004bbe6f2652f54790/416x416.jpg?background=000000&cropX1=17&cropX2=2820&cropY1=120&cropY2=2926
+6142,None,None,None,https://specials-images.forbesimg.com/imageserve/5a7f97da31358e4955ad1e5c/416x416.jpg?background=000000&cropX1=131&cropX2=1695&cropY1=72&cropY2=1636
 9223,85,None,None,https://specials-images.forbesimg.com/imageserve/580f60ee31358e2383160e88/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=100&cropY2=844
 8075,82,Male,United States,https://specials-images.forbesimg.com/imageserve/5a908704a7ea434a0c2720b7/416x416.jpg?background=000000&cropX1=1183&cropX2=2387&cropY1=725&cropY2=1930
 4542,70,Male,None,https://specials-images.forbesimg.com/imageserve/5a810d5b4bbe6f2652f54498/416x416.jpg?background=000000&cropX1=297&cropX2=1859&cropY1=173&cropY2=1734
@@ -1749,7 +1749,7 @@ id,age,gender,country,image
 4167,43,Male,China,https://specials-images.forbesimg.com/imageserve/5a80a54fa7ea431690133afd/416x416.jpg?background=000000&cropX1=31&cropX2=790&cropY1=43&cropY2=801
 3853,68,None,China,https://specials-images.forbesimg.com/imageserve/5a80a54fa7ea431690133afd/416x416.jpg?background=000000&cropX1=31&cropX2=790&cropY1=43&cropY2=801
 2202,53,None,None,https://specials-images.forbesimg.com/imageserve/5a8dfe6a4bbe6f2652f62d58/416x416.jpg?background=000000&cropX1=0&cropX2=720&cropY1=44&cropY2=764
-6554,2020,Male,People's Republic of China,https://specials-images.forbesimg.com/imageserve/5a7d26554bbe6f2652f51297/416x416.jpg?background=000000&cropX1=789&cropX2=3360&cropY1=97&cropY2=2670
+6554,None,Male,People's Republic of China,https://specials-images.forbesimg.com/imageserve/5a7d26554bbe6f2652f51297/416x416.jpg?background=000000&cropX1=789&cropX2=3360&cropY1=97&cropY2=2670
 1401,49,Male,China,https://specials-images.forbesimg.com/imageserve/5a7d26554bbe6f2652f51297/416x416.jpg?background=000000&cropX1=789&cropX2=3360&cropY1=97&cropY2=2670
 3869,63,Male,China,https://specials-images.forbesimg.com/imageserve/589f2ffda7ea431f321947f2/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=5&cropY2=746
 5408,52,Male,China,https://specials-images.forbesimg.com/imageserve/2ab35b49b2ece993fb88ee046c098dea/416x416.jpg?background=000000&cropX1=42&cropX2=744&cropY1=44&cropY2=747
@@ -1785,7 +1785,7 @@ id,age,gender,country,image
 6868,63,None,Cyprus,https://specials-images.forbesimg.com/imageserve/70a10d3a91f71d517bdf998b93397feb/416x416.jpg?background=000000&cropX1=2&cropX2=566&cropY1=0&cropY2=564
 6556,54,None,United Kingdom,https://specials-images.forbesimg.com/imageserve/1c400b27776030240a1380c018559a12/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=31&cropY2=775
 8022,60,Male,People's Republic of China,https://specials-images.forbesimg.com/imageserve/589cfe944bbe6f0e55866af7/416x416.jpg?background=000000&cropX1=111&cropX2=591&cropY1=276&cropY2=756
-7657,2020,None,Taiwan,https://specials-images.forbesimg.com/imageserve/589cfe944bbe6f0e55866af7/416x416.jpg?background=000000&cropX1=111&cropX2=591&cropY1=276&cropY2=756
+7657,None,None,Taiwan,https://specials-images.forbesimg.com/imageserve/589cfe944bbe6f0e55866af7/416x416.jpg?background=000000&cropX1=111&cropX2=591&cropY1=276&cropY2=756
 9469,84,None,United States,https://specials-images.forbesimg.com/imageserve/5a908e2da7ea434a0c2721a1/416x416.jpg?background=000000&cropX1=441&cropX2=3707&cropY1=0&cropY2=3264
 7366,67,Male,None,https://specials-images.forbesimg.com/imageserve/5a90919da7ea434a0c2721de/416x416.jpg?background=000000&cropX1=1039&cropX2=1975&cropY1=144&cropY2=1081
 8347,60,None,None,https://specials-images.forbesimg.com/imageserve/59d3e21f31358e542c034603/416x416.jpg?background=000000&cropX1=481&cropX2=1924&cropY1=258&cropY2=1702
@@ -1806,7 +1806,7 @@ id,age,gender,country,image
 9646,38,Female,None,https://specials-images.forbesimg.com/imageserve/5628f9d6e4b0ffa7afe624d4/416x416.jpg?background=000000&cropX1=79&cropX2=744&cropY1=3&cropY2=669
 1186,65,Male,China,https://specials-images.forbesimg.com/imageserve/0cbb1af7d866aae7ae316d58d6f367e8/416x416.jpg?background=000000&cropX1=81&cropX2=741&cropY1=5&cropY2=666
 7331,84,None,Spain,https://specials-images.forbesimg.com/imageserve/5a811241a7ea431690134020/416x416.jpg?background=000000&cropX1=849&cropX2=3365&cropY1=0&cropY2=2517
-1352,2020,None,China,https://specials-images.forbesimg.com/imageserve/5a811241a7ea431690134020/416x416.jpg?background=000000&cropX1=849&cropX2=3365&cropY1=0&cropY2=2517
+1352,None,None,China,https://specials-images.forbesimg.com/imageserve/5a811241a7ea431690134020/416x416.jpg?background=000000&cropX1=849&cropX2=3365&cropY1=0&cropY2=2517
 6359,58,Male,None,https://specials-images.forbesimg.com/imageserve/5a811241a7ea431690134020/416x416.jpg?background=000000&cropX1=849&cropX2=3365&cropY1=0&cropY2=2517
 8157,68,Male,None,https://specials-images.forbesimg.com/imageserve/5a811241a7ea431690134020/416x416.jpg?background=000000&cropX1=849&cropX2=3365&cropY1=0&cropY2=2517
 8796,66,Female,United States,https://specials-images.forbesimg.com/imageserve/5a908f9b31358e79a28a1f10/416x416.jpg?background=000000&cropX1=103&cropX2=2410&cropY1=686&cropY2=2992
@@ -1825,7 +1825,7 @@ id,age,gender,country,image
 3255,65,Male,United States,https://specials-images.forbesimg.com/imageserve/5a90911ea7ea434a0c2721cc/416x416.jpg?background=000000&cropX1=438&cropX2=1365&cropY1=66&cropY2=992
 3301,80,Female,None,https://specials-images.forbesimg.com/imageserve/5a7c6cb331358e4955acecac/416x416.jpg?background=000000&cropX1=137&cropX2=3925&cropY1=394&cropY2=4183
 8640,72,Female,None,https://specials-images.forbesimg.com/imageserve/ddbd6d4875910de0fb53a4eb89fcc2f4/416x416.jpg?background=000000&cropX1=15&cropX2=578&cropY1=21&cropY2=584
-5313,2020,None,Germany,https://specials-images.forbesimg.com/imageserve/5a7e1c0131358e4955ad10a9/416x416.jpg?background=000000&cropX1=2030&cropX2=5379&cropY1=270&cropY2=3616
+5313,None,None,Germany,https://specials-images.forbesimg.com/imageserve/5a7e1c0131358e4955ad10a9/416x416.jpg?background=000000&cropX1=2030&cropX2=5379&cropY1=270&cropY2=3616
 4088,65,None,None,https://specials-images.forbesimg.com/imageserve/5a908f4831358e79a28a1f00/416x416.jpg?background=000000&cropX1=1703&cropX2=3960&cropY1=354&cropY2=2613
 5100,72,None,None,https://specials-images.forbesimg.com/imageserve/56c9cd37e4b062f6b59a2c63/416x416.jpg?background=000000&cropX1=2&cropX2=701&cropY1=226&cropY2=925
 5391,66,None,None,https://specials-images.forbesimg.com/imageserve/e041fff65ccf6e84832824c966725b5a/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=2&cropY2=743
@@ -1855,7 +1855,7 @@ id,age,gender,country,image
 3523,83,Male,Hong Kong,https://specials-images.forbesimg.com/imageserve/a5562f28b8b0bcbd132002c1a08dce80/416x416.jpg?background=000000&cropX1=118&cropX2=649&cropY1=37&cropY2=569
 9270,44,Female,China,https://specials-images.forbesimg.com/imageserve/a5562f28b8b0bcbd132002c1a08dce80/416x416.jpg?background=000000&cropX1=118&cropX2=649&cropY1=37&cropY2=569
 4848,59,Male,None,https://specials-images.forbesimg.com/imageserve/a5562f28b8b0bcbd132002c1a08dce80/416x416.jpg?background=000000&cropX1=118&cropX2=649&cropY1=37&cropY2=569
-8884,2020,Female,China,https://specials-images.forbesimg.com/imageserve/a5562f28b8b0bcbd132002c1a08dce80/416x416.jpg?background=000000&cropX1=118&cropX2=649&cropY1=37&cropY2=569
+8884,None,Female,China,https://specials-images.forbesimg.com/imageserve/a5562f28b8b0bcbd132002c1a08dce80/416x416.jpg?background=000000&cropX1=118&cropX2=649&cropY1=37&cropY2=569
 8493,58,Male,China,https://specials-images.forbesimg.com/imageserve/5a8dfb21a7ea43169014106c/416x416.jpg?background=000000&cropX1=5&cropX2=2336&cropY1=250&cropY2=2583
 7719,60,None,None,https://specials-images.forbesimg.com/imageserve/5a8dfb21a7ea43169014106c/416x416.jpg?background=000000&cropX1=5&cropX2=2336&cropY1=250&cropY2=2583
 1706,58,Male,Hong Kong,https://specials-images.forbesimg.com/imageserve/1bd57d61bff2fbf42cc46b5d3d2a4bd6/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=3&cropY2=747
@@ -1866,8 +1866,8 @@ id,age,gender,country,image
 9759,51,Male,None,https://specials-images.forbesimg.com/imageserve/589f2d6e31358e1a35ab274c/416x416.jpg?background=000000&cropX1=43&cropX2=703&cropY1=192&cropY2=853
 6698,57,None,China,https://specials-images.forbesimg.com/imageserve/562a57ede4b0ffa7afe63004/416x416.jpg?background=000000&cropX1=105&cropX2=744&cropY1=82&cropY2=722
 9879,58,None,Qatar,https://specials-images.forbesimg.com/imageserve/5a8071fc31358e4955ad284c/416x416.jpg?background=000000&cropX1=0&cropX2=720&cropY1=62&cropY2=782
-8566,2020,Male,None,https://specials-images.forbesimg.com/imageserve/5a8071fc31358e4955ad284c/416x416.jpg?background=000000&cropX1=0&cropX2=720&cropY1=62&cropY2=782
-5149,2020,Male,None,https://specials-images.forbesimg.com/imageserve/5a8071fc31358e4955ad284c/416x416.jpg?background=000000&cropX1=0&cropX2=720&cropY1=62&cropY2=782
+8566,None,Male,None,https://specials-images.forbesimg.com/imageserve/5a8071fc31358e4955ad284c/416x416.jpg?background=000000&cropX1=0&cropX2=720&cropY1=62&cropY2=782
+5149,None,Male,None,https://specials-images.forbesimg.com/imageserve/5a8071fc31358e4955ad284c/416x416.jpg?background=000000&cropX1=0&cropX2=720&cropY1=62&cropY2=782
 8320,64,None,Spain,https://specials-images.forbesimg.com/imageserve/58a27c03a7ea431f32197606/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=77&cropY2=820
 6523,46,Male,United States,https://specials-images.forbesimg.com/imageserve/58c1d11ca7ea431f321adcf8/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=84&cropY2=828
 7782,55,Male,None,https://specials-images.forbesimg.com/imageserve/58c1d11ca7ea431f321adcf8/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=84&cropY2=828
@@ -2009,7 +2009,7 @@ id,age,gender,country,image
 9693,57,Male,Italy,https://specials-images.forbesimg.com/imageserve/5a7f9c4b31358e4955ad1e84/416x416.jpg?background=000000&cropX1=1162&cropX2=3786&cropY1=6&cropY2=2629
 4315,71,Male,Turkey,https://specials-images.forbesimg.com/imageserve/38f6493ead1647157fbdfeecfdc0a6d3/416x416.jpg?background=000000&cropX1=1&cropX2=600&cropY1=14&cropY2=613
 6925,80,None,None,https://specials-images.forbesimg.com/imageserve/38f6493ead1647157fbdfeecfdc0a6d3/416x416.jpg?background=000000&cropX1=1&cropX2=600&cropY1=14&cropY2=613
-5770,2020,Female,None,https://specials-images.forbesimg.com/imageserve/38f6493ead1647157fbdfeecfdc0a6d3/416x416.jpg?background=000000&cropX1=1&cropX2=600&cropY1=14&cropY2=613
+5770,None,Female,None,https://specials-images.forbesimg.com/imageserve/38f6493ead1647157fbdfeecfdc0a6d3/416x416.jpg?background=000000&cropX1=1&cropX2=600&cropY1=14&cropY2=613
 7822,65,Male,None,https://specials-images.forbesimg.com/imageserve/38f6493ead1647157fbdfeecfdc0a6d3/416x416.jpg?background=000000&cropX1=1&cropX2=600&cropY1=14&cropY2=613
 1536,45,Male,None,https://specials-images.forbesimg.com/imageserve/38f6493ead1647157fbdfeecfdc0a6d3/416x416.jpg?background=000000&cropX1=1&cropX2=600&cropY1=14&cropY2=613
 4655,38,Male,None,https://specials-images.forbesimg.com/imageserve/38f6493ead1647157fbdfeecfdc0a6d3/416x416.jpg?background=000000&cropX1=1&cropX2=600&cropY1=14&cropY2=613
@@ -2018,16 +2018,16 @@ id,age,gender,country,image
 7979,58,Male,None,https://specials-images.forbesimg.com/imageserve/5ab292dd31358e79a28c6eda/416x416.jpg?background=000000&cropX1=356&cropX2=2309&cropY1=391&cropY2=2345
 2294,54,Male,None,https://specials-images.forbesimg.com/imageserve/5ab292dd31358e79a28c6eda/416x416.jpg?background=000000&cropX1=356&cropX2=2309&cropY1=391&cropY2=2345
 5136,56,None,China,https://specials-images.forbesimg.com/imageserve/5ab292dd31358e79a28c6eda/416x416.jpg?background=000000&cropX1=356&cropX2=2309&cropY1=391&cropY2=2345
-5124,2020,Male,None,https://specials-images.forbesimg.com/imageserve/5ab292dd31358e79a28c6eda/416x416.jpg?background=000000&cropX1=356&cropX2=2309&cropY1=391&cropY2=2345
-7721,2020,Female,None,https://specials-images.forbesimg.com/imageserve/5ab292dd31358e79a28c6eda/416x416.jpg?background=000000&cropX1=356&cropX2=2309&cropY1=391&cropY2=2345
-7843,2020,Male,None,https://specials-images.forbesimg.com/imageserve/5ab292dd31358e79a28c6eda/416x416.jpg?background=000000&cropX1=356&cropX2=2309&cropY1=391&cropY2=2345
+5124,None,Male,None,https://specials-images.forbesimg.com/imageserve/5ab292dd31358e79a28c6eda/416x416.jpg?background=000000&cropX1=356&cropX2=2309&cropY1=391&cropY2=2345
+7721,None,Female,None,https://specials-images.forbesimg.com/imageserve/5ab292dd31358e79a28c6eda/416x416.jpg?background=000000&cropX1=356&cropX2=2309&cropY1=391&cropY2=2345
+7843,None,Male,None,https://specials-images.forbesimg.com/imageserve/5ab292dd31358e79a28c6eda/416x416.jpg?background=000000&cropX1=356&cropX2=2309&cropY1=391&cropY2=2345
 7664,73,Male,Venezuela,https://specials-images.forbesimg.com/imageserve/5a8136e6a7ea431690134190/416x416.jpg?background=000000&cropX1=244&cropX2=2233&cropY1=9&cropY2=1996
 3069,65,Male,Hungary,https://specials-images.forbesimg.com/imageserve/5a821571a7ea431690135807/416x416.jpg?background=000000&cropX1=544&cropX2=2425&cropY1=120&cropY2=2000
 3243,60,Female,Hong Kong,https://specials-images.forbesimg.com/imageserve/590cb1d24bbe6f09a17a72d2/416x416.jpg?background=000000&cropX1=1189&cropX2=3189&cropY1=140&cropY2=2140
 8864,45,None,None,https://specials-images.forbesimg.com/imageserve/5a8df6ed31358e4955adff90/416x416.jpg?background=000000&cropX1=548&cropX2=1940&cropY1=74&cropY2=1466
 4335,65,Male,USA,https://specials-images.forbesimg.com/imageserve/73371aed5d8a47d09f73069801fb7c45/416x416.jpg?background=000000&cropX1=206&cropX2=522&cropY1=60&cropY2=375
 4580,63,Male,United States,https://specials-images.forbesimg.com/imageserve/5ad4c0134bbe6f2310f2a13e/416x416.jpg?background=000000&cropX1=629&cropX2=2903&cropY1=206&cropY2=2479
-6170,2020,Male,None,https://specials-images.forbesimg.com/imageserve/5a7e5efca7ea4316901324f2/416x416.jpg?background=000000&cropX1=1173&cropX2=3727&cropY1=280&cropY2=2832
+6170,None,Male,None,https://specials-images.forbesimg.com/imageserve/5a7e5efca7ea4316901324f2/416x416.jpg?background=000000&cropX1=1173&cropX2=3727&cropY1=280&cropY2=2832
 3841,46,None,None,https://specials-images.forbesimg.com/imageserve/5a8094b44bbe6f2652f53d5f/416x416.jpg?background=000000&cropX1=1067&cropX2=3230&cropY1=129&cropY2=2291
 5357,74,Male,United States,https://specials-images.forbesimg.com/imageserve/5a90acd04bbe6f0fa8266b77/416x416.jpg?background=000000&cropX1=810&cropX2=1341&cropY1=390&cropY2=921
 4658,60,Male,United States,https://specials-images.forbesimg.com/imageserve/5a90acd04bbe6f0fa8266b77/416x416.jpg?background=000000&cropX1=810&cropX2=1341&cropY1=390&cropY2=921
@@ -2043,7 +2043,7 @@ id,age,gender,country,image
 8711,52,Male,None,https://specials-images.forbesimg.com/imageserve/55650247e4b0bacdbd75563b/416x416.jpg?background=000000&cropX1=32&cropX2=744&cropY1=68&cropY2=780
 3593,48,Male,None,https://specials-images.forbesimg.com/imageserve/55650247e4b0bacdbd75563b/416x416.jpg?background=000000&cropX1=32&cropX2=744&cropY1=68&cropY2=780
 2118,54,Male,Sweden,https://specials-images.forbesimg.com/imageserve/55650247e4b0bacdbd75563b/416x416.jpg?background=000000&cropX1=32&cropX2=744&cropY1=68&cropY2=780
-2313,2020,Female,None,https://specials-images.forbesimg.com/imageserve/55650247e4b0bacdbd75563b/416x416.jpg?background=000000&cropX1=32&cropX2=744&cropY1=68&cropY2=780
+2313,None,Female,None,https://specials-images.forbesimg.com/imageserve/55650247e4b0bacdbd75563b/416x416.jpg?background=000000&cropX1=32&cropX2=744&cropY1=68&cropY2=780
 9757,72,Male,United States,https://specials-images.forbesimg.com/imageserve/55650247e4b0bacdbd75563b/416x416.jpg?background=000000&cropX1=32&cropX2=744&cropY1=68&cropY2=780
 8736,55,Male,Russia,https://specials-images.forbesimg.com/imageserve/55650247e4b0bacdbd75563b/416x416.jpg?background=000000&cropX1=32&cropX2=744&cropY1=68&cropY2=780
 4522,54,Male,Singapore,https://specials-images.forbesimg.com/imageserve/3d6fd5b74280b88dcb6566f2c311f604/416x416.jpg?background=000000&cropX1=174&cropX2=742&cropY1=387&cropY2=956
@@ -2116,7 +2116,7 @@ id,age,gender,country,image
 3566,56,Male,China,https://specials-images.forbesimg.com/imageserve/888de6700061e95179d28f706cfe2196/416x416.jpg?background=000000&cropX1=50&cropX2=697&cropY1=0&cropY2=648
 9071,78,None,St. Kitts and Nevis,https://specials-images.forbesimg.com/imageserve/5a87186431358e4955ada187/416x416.jpg?background=000000&cropX1=0&cropX2=2001&cropY1=73&cropY2=2074
 6600,56,Male,None,https://specials-images.forbesimg.com/imageserve/43cf0251db56b4feefcd4ddd877d09ed/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=31&cropY2=772
-7723,2020,None,None,https://specials-images.forbesimg.com/imageserve/43cf0251db56b4feefcd4ddd877d09ed/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=31&cropY2=772
+7723,None,None,None,https://specials-images.forbesimg.com/imageserve/43cf0251db56b4feefcd4ddd877d09ed/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=31&cropY2=772
 2437,42,None,China,https://specials-images.forbesimg.com/imageserve/43cf0251db56b4feefcd4ddd877d09ed/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=31&cropY2=772
 1708,45,Female,Turkey,https://specials-images.forbesimg.com/imageserve/43cf0251db56b4feefcd4ddd877d09ed/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=31&cropY2=772
 9432,49,Male,Hong Kong,https://specials-images.forbesimg.com/imageserve/de34525958dbc6544d59b65b8b7f34a2/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=0&cropY2=744
