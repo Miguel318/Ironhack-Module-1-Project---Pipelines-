@@ -1,21 +1,14 @@
-home = /usr/local/bin
-include-system-site-packages = false
-version = 3.7.3
+from adquisition import read_and_merge
+from cleaning import clean
+from scraping import scrap
+from analytics import analysis
 
-import sqlite3
-import pandas as pd
+def main():
+    df = read_and_merge('/Users/MIGUEL/Desktop/CLAB1/Ironhack-Module-1-Project---Pipelines-/data/raw/Miguel318.db')
+    df_clean=clean(df,['id', 'realTimeWorth', 'Unnamed: 0', 'Unnamed: 0_x', 'Unnamed: 0_y', 'realTimePosition','lastName'])
+    df_scrap = scrap(df_clean,'https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population')
+    analysis(df_scrap,['position', 'worth BUSD', " worthChange millions USD", 'gender', 'country'])
 
-    def acquisition(file):
-        sqlite3.connect('/Users/MIGUEL/Desktop/CLAB1/Ironhack-Module-1-Project---Pipelines-/data/raw/Miguel318.db')
-        df_business_info = pd.read_sql_query("SELECT * FROM business_info", df)
-        df_personal_info = pd.read_sql_query("SELECT * FROM personal_info", df)
-        df_rank_info = pd.read_sql_query("SELECT * FROM rank_info", df)
-        df = pd.merge(df_business_info, df_personal_info, on='id'), df_rank_info, on='id'))
-        return df.to_csv(file)
 
-    def reading_csv(df):
-        df = pd.read_csv(df)
-        return df
-
-acquisition('df')
-
+if __name__== '__main__':
+    main()
